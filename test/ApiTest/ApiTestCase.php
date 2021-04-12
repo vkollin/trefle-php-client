@@ -4,7 +4,6 @@ namespace Trefle\Test\ApiTest;
 
 use PHPUnit\Framework\TestCase;
 use Spatie\Snapshots\MatchesSnapshots;
-use Trefle\Client;
 use Trefle\Connection\ApiClient;
 use Trefle\Connection\ApiResponse;
 use Trefle\Factory\ApiResponseFactory;
