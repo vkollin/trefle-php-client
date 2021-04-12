@@ -1,0 +1,43 @@
+name: Test
+
+on: push
+
+env:
+  working-dir: ./service/turus/src
+
+jobs:
+  test-php:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ${{ env.working-dir }}
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: get composer cache directory
+        id: composer-cache
+        run: |
+          echo "::set-output name=dir::$(composer config cache-files-dir)"
+
+      - uses: actions/cache@v2
+        with:
+          path: ${{ steps.composer-cache.outputs.dir }}
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-composer-
+
+      - name: setup php
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+        env:
+          fail-fast: true
+
+      - name: install dependencies
+        if: steps.composer-cache.outputs.cache-hit != 'true'
+        run: composer install --no-suggest
+
+      - name: run tests
+        run: composer test

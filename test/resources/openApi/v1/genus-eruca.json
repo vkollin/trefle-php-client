@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 2862,
+    "name": "Eruca",
+    "slug": "eruca",
+    "links": {
+      "self": "/api/v1/genus/eruca",
+      "plants": "/api/v1/genus/eruca/plants",
+      "species": "/api/v1/genus/eruca/species",
+      "family": "/api/v1/families/brassicaceae"
+    },
+    "family": {
+      "id": 79,
+      "name": "Brassicaceae",
+      "common_name": "Mustard family",
+      "slug": "brassicaceae",
+      "links": {
+        "self": "/api/v1/families/brassicaceae",
+        "division_order": "/api/v1/division_orders/capparales",
+        "genus": "/api/v1/families/brassicaceae/genus"
+      }
+    }
+  },
+  "meta": {
+    "last_modified": "2021-03-04T17:46:31.976Z"
+  }
+}

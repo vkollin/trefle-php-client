@@ -1,0 +1,10 @@
+kingdom:
+    id: 1
+    name: Plantae
+    links: { self: /api/v1/kingdoms/1 }
+id: 1
+name: Tracheobionta
+slug: tracheobionta
+links:
+    self: /api/v1/subkingdoms/tracheobionta
+    kingdom: /api/v1/kingdoms/1

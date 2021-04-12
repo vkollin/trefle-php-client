@@ -1,0 +1,14 @@
+family:
+    divisionOrder: null
+    id: 79
+    name: Brassicaceae
+    slug: brassicaceae
+    links: { self: /api/v1/families/brassicaceae, division_order: /api/v1/division_orders/capparales, genus: /api/v1/families/brassicaceae/genus }
+id: 2862
+name: Eruca
+slug: eruca
+links:
+    self: /api/v1/genus/eruca
+    plants: /api/v1/genus/eruca/plants
+    species: /api/v1/genus/eruca/species
+    family: /api/v1/families/brassicaceae

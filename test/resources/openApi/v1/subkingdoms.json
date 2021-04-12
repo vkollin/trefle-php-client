@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Tracheobionta",
+      "slug": "tracheobionta",
+      "links": {
+        "self": "/api/v1/subkingdoms/tracheobionta",
+        "kingdom": "/api/v1/kingdoms/1"
+      },
+      "kingdom": {
+        "id": 1,
+        "name": "Plantae",
+        "slug": null,
+        "links": {
+          "self": "/api/v1/kingdoms/1"
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": "/api/v1/subkingdoms",
+    "first": "/api/v1/subkingdoms?page=1",
+    "last": "/api/v1/subkingdoms?page=1"
+  },
+  "meta": {
+    "total": 1
+  }
+}

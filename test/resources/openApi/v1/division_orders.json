@@ -1,0 +1,768 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Dipsacales",
+      "slug": "dipsacales",
+      "links": {
+        "self": "/api/v1/division_orders/dipsacales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Malvales",
+      "slug": "malvales",
+      "links": {
+        "self": "/api/v1/division_orders/malvales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Pinales",
+      "slug": "pinales",
+      "links": {
+        "self": "/api/v1/division_orders/pinales",
+        "division_class": "/api/v1/division_classes/pinopsida"
+      },
+      "division_class": {
+        "id": 2,
+        "name": "Pinopsida",
+        "slug": "pinopsida",
+        "links": {
+          "self": "/api/v1/division_classes/pinopsida",
+          "division": "/api/v1/divisions/coniferophyta"
+        },
+        "division": {
+          "id": 2,
+          "name": "Coniferophyta",
+          "slug": "coniferophyta",
+          "links": {
+            "self": "/api/v1/divisions/coniferophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hypnales",
+      "slug": "hypnales",
+      "links": {
+        "self": "/api/v1/division_orders/hypnales",
+        "division_class": "/api/v1/division_classes/bryopsida"
+      },
+      "division_class": {
+        "id": 3,
+        "name": "Bryopsida",
+        "slug": "bryopsida",
+        "links": {
+          "self": "/api/v1/division_classes/bryopsida",
+          "division": null
+        },
+        "division": null
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cyperales",
+      "slug": "cyperales",
+      "links": {
+        "self": "/api/v1/division_orders/cyperales",
+        "division_class": "/api/v1/division_classes/liliopsida"
+      },
+      "division_class": {
+        "id": 4,
+        "name": "Liliopsida",
+        "slug": "liliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/liliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Caryophyllales",
+      "slug": "caryophyllales",
+      "links": {
+        "self": "/api/v1/division_orders/caryophyllales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Uncertain Ascomycota Order",
+      "slug": "uncertain-ascomycota-order",
+      "links": {
+        "self": "/api/v1/division_orders/uncertain-ascomycota-order",
+        "division_class": "/api/v1/division_classes/uncertain-ascomycota-class"
+      },
+      "division_class": {
+        "id": 5,
+        "name": "Uncertain Ascomycota Class",
+        "slug": "uncertain-ascomycota-class",
+        "links": {
+          "self": "/api/v1/division_classes/uncertain-ascomycota-class",
+          "division": null
+        },
+        "division": null
+      }
+    },
+    {
+      "id": 8,
+      "name": "Fabales",
+      "slug": "fabales",
+      "links": {
+        "self": "/api/v1/division_orders/fabales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Ostropales",
+      "slug": "ostropales",
+      "links": {
+        "self": "/api/v1/division_orders/ostropales",
+        "division_class": "/api/v1/division_classes/ascomycetes"
+      },
+      "division_class": {
+        "id": 6,
+        "name": "Ascomycetes",
+        "slug": "ascomycetes",
+        "links": {
+          "self": "/api/v1/division_classes/ascomycetes",
+          "division": null
+        },
+        "division": null
+      }
+    },
+    {
+      "id": 10,
+      "name": "Rosales",
+      "slug": "rosales",
+      "links": {
+        "self": "/api/v1/division_orders/rosales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Euphorbiales",
+      "slug": "euphorbiales",
+      "links": {
+        "self": "/api/v1/division_orders/euphorbiales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Asterales",
+      "slug": "asterales",
+      "links": {
+        "self": "/api/v1/division_orders/asterales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Lamiales",
+      "slug": "lamiales",
+      "links": {
+        "self": "/api/v1/division_orders/lamiales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Scrophulariales",
+      "slug": "scrophulariales",
+      "links": {
+        "self": "/api/v1/division_orders/scrophulariales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Lecanorales",
+      "slug": "lecanorales",
+      "links": {
+        "self": "/api/v1/division_orders/lecanorales",
+        "division_class": "/api/v1/division_classes/ascomycetes"
+      },
+      "division_class": {
+        "id": 6,
+        "name": "Ascomycetes",
+        "slug": "ascomycetes",
+        "links": {
+          "self": "/api/v1/division_classes/ascomycetes",
+          "division": null
+        },
+        "division": null
+      }
+    },
+    {
+      "id": 16,
+      "name": "Pottiales",
+      "slug": "pottiales",
+      "links": {
+        "self": "/api/v1/division_orders/pottiales",
+        "division_class": "/api/v1/division_classes/bryopsida"
+      },
+      "division_class": {
+        "id": 3,
+        "name": "Bryopsida",
+        "slug": "bryopsida",
+        "links": {
+          "self": "/api/v1/division_classes/bryopsida",
+          "division": null
+        },
+        "division": null
+      }
+    },
+    {
+      "id": 17,
+      "name": "Sapindales",
+      "slug": "sapindales",
+      "links": {
+        "self": "/api/v1/division_orders/sapindales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Ranunculales",
+      "slug": "ranunculales",
+      "links": {
+        "self": "/api/v1/division_orders/ranunculales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "Calycerales",
+      "slug": "calycerales",
+      "links": {
+        "self": "/api/v1/division_orders/calycerales",
+        "division_class": "/api/v1/division_classes/magnoliopsida"
+      },
+      "division_class": {
+        "id": 1,
+        "name": "Magnoliopsida",
+        "slug": "magnoliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/magnoliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "Liliales",
+      "slug": "liliales",
+      "links": {
+        "self": "/api/v1/division_orders/liliales",
+        "division_class": "/api/v1/division_classes/liliopsida"
+      },
+      "division_class": {
+        "id": 4,
+        "name": "Liliopsida",
+        "slug": "liliopsida",
+        "links": {
+          "self": "/api/v1/division_classes/liliopsida",
+          "division": "/api/v1/divisions/magnoliophyta"
+        },
+        "division": {
+          "id": 1,
+          "name": "Magnoliophyta",
+          "slug": "magnoliophyta",
+          "links": {
+            "self": "/api/v1/divisions/magnoliophyta",
+            "subkingdom": "/api/v1/subkingdoms/tracheobionta"
+          },
+          "subkingdom": {
+            "id": 1,
+            "name": "Tracheobionta",
+            "slug": "tracheobionta",
+            "links": {
+              "self": "/api/v1/subkingdoms/tracheobionta",
+              "kingdom": "/api/v1/kingdoms/1"
+            },
+            "kingdom": {
+              "id": 1,
+              "name": "Plantae",
+              "slug": null,
+              "links": {
+                "self": "/api/v1/kingdoms/1"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": "/api/v1/division_orders",
+    "first": "/api/v1/division_orders?page=1",
+    "next": "/api/v1/division_orders?page=2",
+    "last": "/api/v1/division_orders?page=8"
+  },
+  "meta": {
+    "total": 157
+  }
+}

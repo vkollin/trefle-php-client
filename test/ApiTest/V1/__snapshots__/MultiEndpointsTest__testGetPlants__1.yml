@@ -1,0 +1,320 @@
+-
+    id: 678281
+    commonName: 'Evergreen oak'
+    slug: quercus-rotundifolia
+    scientificName: 'Quercus rotundifolia'
+    year: 1785
+    bibliography: 'Encycl. 1: 723 (1785)'
+    author: Lam.
+    familyCommonName: 'Beech family'
+    genusId: 5778
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/quercus-rotundifolia, plant: /api/v1/plants/quercus-rotundifolia, genus: /api/v1/genus/quercus }
+-
+    id: 190500
+    commonName: 'Stinging nettle'
+    slug: urtica-dioica
+    scientificName: 'Urtica dioica'
+    year: 1753
+    bibliography: 'Sp. Pl.: 984 (1753)'
+    author: L.
+    familyCommonName: 'Nettle family'
+    genusId: 1028
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/urtica-dioica, plant: /api/v1/plants/urtica-dioica, genus: /api/v1/genus/urtica }
+-
+    id: 126957
+    commonName: Orchardgrass
+    slug: dactylis-glomerata
+    scientificName: 'Dactylis glomerata'
+    year: 1753
+    bibliography: 'Sp. Pl.: 71 (1753)'
+    author: L.
+    familyCommonName: 'Grass family'
+    genusId: 2284
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/dactylis-glomerata, plant: /api/v1/plants/dactylis-glomerata, genus: /api/v1/genus/dactylis }
+-
+    id: 167888
+    commonName: 'Narrowleaf plantain'
+    slug: plantago-lanceolata
+    scientificName: 'Plantago lanceolata'
+    year: 1753
+    bibliography: 'Sp. Pl.: 113 (1753)'
+    author: L.
+    familyCommonName: 'Plantain family'
+    genusId: 5418
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/plantago-lanceolata, plant: /api/v1/plants/plantago-lanceolata, genus: /api/v1/genus/plantago }
+-
+    id: 173327
+    commonName: 'English oak'
+    slug: quercus-robur
+    scientificName: 'Quercus robur'
+    year: 1753
+    bibliography: 'Sp. Pl.: 996 (1753)'
+    author: L.
+    familyCommonName: 'Beech family'
+    genusId: 5778
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/quercus-robur, plant: /api/v1/plants/quercus-robur, genus: /api/v1/genus/quercus }
+-
+    id: 137025
+    commonName: 'Red fescue'
+    slug: festuca-rubra
+    scientificName: 'Festuca rubra'
+    year: 1753
+    bibliography: 'Sp. pl. 1:74.  1753'
+    author: L.
+    familyCommonName: 'Grass family'
+    genusId: 1102
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/festuca-rubra, plant: /api/v1/plants/festuca-rubra, genus: /api/v1/genus/festuca }
+-
+    id: 173910
+    commonName: 'Creeping buttercup'
+    slug: ranunculus-repens
+    scientificName: 'Ranunculus repens'
+    year: 1753
+    bibliography: 'Sp. Pl.: 554 (1753)'
+    author: L.
+    familyCommonName: 'Buttercup family'
+    genusId: 1607
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/ranunculus-repens, plant: /api/v1/plants/ranunculus-repens, genus: /api/v1/genus/ranunculus }
+-
+    id: 143075
+    commonName: 'Common velvetgrass'
+    slug: holcus-lanatus
+    scientificName: 'Holcus lanatus'
+    year: 1753
+    bibliography: 'Sp. Pl.: 1048 (1753)'
+    author: L.
+    familyCommonName: 'Grass family'
+    genusId: 1064
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/holcus-lanatus, plant: /api/v1/plants/holcus-lanatus, genus: /api/v1/genus/holcus }
+-
+    id: 189539
+    commonName: 'White clover'
+    slug: trifolium-repens
+    scientificName: 'Trifolium repens'
+    year: 1753
+    bibliography: 'Sp. Pl.: 767 (1753)'
+    author: L.
+    familyCommonName: 'Pea family'
+    genusId: 5044
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/trifolium-repens, plant: /api/v1/plants/trifolium-repens, genus: /api/v1/genus/trifolium }
+-
+    id: 137834
+    commonName: 'European ash'
+    slug: fraxinus-excelsior
+    scientificName: 'Fraxinus excelsior'
+    year: 1753
+    bibliography: 'Sp. Pl.: 1057 (1753)'
+    author: L.
+    familyCommonName: 'Olive family'
+    genusId: 3064
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/fraxinus-excelsior, plant: /api/v1/plants/fraxinus-excelsior, genus: /api/v1/genus/fraxinus }
+-
+    id: 124198
+    commonName: 'Oneseed hawthorn'
+    slug: crataegus-monogyna
+    scientificName: 'Crataegus monogyna'
+    year: 1775
+    bibliography: 'Fl. Austriac. 3: 50 (1775)'
+    author: Jacq.
+    familyCommonName: 'Rose family'
+    genusId: 678
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/crataegus-monogyna, plant: /api/v1/plants/crataegus-monogyna, genus: /api/v1/genus/crataegus }
+-
+    id: 189529
+    commonName: 'Red clover'
+    slug: trifolium-pratense
+    scientificName: 'Trifolium pratense'
+    year: 1753
+    bibliography: 'Sp. Pl.: 768 (1753)'
+    author: L.
+    familyCommonName: 'Pea family'
+    genusId: 5044
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/trifolium-pratense, plant: /api/v1/plants/trifolium-pratense, genus: /api/v1/genus/trifolium }
+-
+    id: 173587
+    commonName: 'Tall buttercup'
+    slug: ranunculus-acris
+    scientificName: 'Ranunculus acris'
+    year: 1753
+    bibliography: 'Sp. Pl.: 554 (1753)'
+    author: L.
+    familyCommonName: 'Buttercup family'
+    genusId: 1607
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/ranunculus-acris, plant: /api/v1/plants/ranunculus-acris, genus: /api/v1/genus/ranunculus }
+-
+    id: 123486
+    commonName: 'Common filbert'
+    slug: corylus-avellana
+    scientificName: 'Corylus avellana'
+    year: 1753
+    bibliography: 'Sp. Pl.: 998 (1753)'
+    author: L.
+    familyCommonName: 'Birch family'
+    genusId: 2057
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/corylus-avellana, plant: /api/v1/plants/corylus-avellana, genus: /api/v1/genus/corylus }
+-
+    id: 136773
+    commonName: 'European beech'
+    slug: fagus-sylvatica
+    scientificName: 'Fagus sylvatica'
+    year: 1753
+    bibliography: 'Sp. Pl.: 998 (1753)'
+    author: L.
+    familyCommonName: 'Beech family'
+    genusId: 2976
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/fagus-sylvatica, plant: /api/v1/plants/fagus-sylvatica, genus: /api/v1/genus/fagus }
+-
+    id: 146208
+    commonName: 'Common rush'
+    slug: juncus-effusus
+    scientificName: 'Juncus effusus'
+    year: 1753
+    bibliography: 'Sp. Pl.: 326 (1753)'
+    author: L.
+    familyCommonName: 'Rush family'
+    genusId: 3848
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/juncus-effusus, plant: /api/v1/plants/juncus-effusus, genus: /api/v1/genus/juncus }
+-
+    id: 176845
+    commonName: 'Garden sorrel'
+    slug: rumex-acetosa
+    scientificName: 'Rumex acetosa'
+    year: 1753
+    bibliography: 'Sp. pl. 1:337.  1753, nom. cons.'
+    author: L.
+    familyCommonName: 'Buckwheat family'
+    genusId: 2722
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/rumex-acetosa, plant: /api/v1/plants/rumex-acetosa, genus: /api/v1/genus/rumex }
+-
+    id: 105790
+    commonName: 'Sweet vernalgrass'
+    slug: anthoxanthum-odoratum
+    scientificName: 'Anthoxanthum odoratum'
+    year: 1753
+    bibliography: 'Sp. Pl.: 28 (1753)'
+    author: L.
+    familyCommonName: 'Grass family'
+    genusId: 499
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/anthoxanthum-odoratum, plant: /api/v1/plants/anthoxanthum-odoratum, genus: /api/v1/genus/anthoxanthum }
+-
+    id: 137183
+    commonName: 'Queen of the meadow'
+    slug: filipendula-ulmaria
+    scientificName: 'Filipendula ulmaria'
+    year: 1879
+    bibliography: 'Trudy Imp. S.-Peterburgsk. Bot. Sada 6: 251 (1879)'
+    author: '(L.) Maxim.'
+    familyCommonName: 'Rose family'
+    genusId: 3008
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/filipendula-ulmaria, plant: /api/v1/plants/filipendula-ulmaria, genus: /api/v1/genus/filipendula }
+-
+    id: 101851
+    commonName: 'Sycamore maple'
+    slug: acer-pseudoplatanus
+    scientificName: 'Acer pseudoplatanus'
+    year: 1753
+    bibliography: 'Sp. pl. 2:1054.  1753'
+    author: L.
+    familyCommonName: 'Soapberry family'
+    genusId: 39
+    mainSpeciesId: null
+    vegetable: null
+    observations: null
+    mainSpecies: null
+    sources: null
+    links: { self: /api/v1/species/acer-pseudoplatanus, plant: /api/v1/plants/acer-pseudoplatanus, genus: /api/v1/genus/acer }

@@ -1,0 +1,12 @@
+divisionClass:
+    division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }
+    id: 1
+    name: Magnoliopsida
+    slug: magnoliopsida
+    links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta }
+id: 43
+name: Capparales
+slug: capparales
+links:
+    self: /api/v1/division_orders/capparales
+    division_class: /api/v1/division_classes/magnoliopsida

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<phpunit
+        backupGlobals="true"
+        backupStaticAttributes="false"
+        bootstrap="vendor/autoload.php"
+        colors="true"
+        convertErrorsToExceptions="true"
+        convertNoticesToExceptions="true"
+        convertWarningsToExceptions="true"
+        forceCoversAnnotation="false"
+        processIsolation="false"
+        stopOnError="false"
+        stopOnFailure="false"
+        stopOnIncomplete="false"
+        stopOnSkipped="false"
+        stopOnRisky="false"
+        verbose="false">
+    <coverage processUncoveredFiles="true">
+        <include>
+            <directory suffix=".php">src</directory>
+        </include>
+        <exclude>
+            <file>src/Connection/ApiClient.php</file>
+        </exclude>
+    </coverage>
+
+    <testsuites>
+        <testsuite name="Unit Test">
+            <directory>test/Unit/</directory>
+        </testsuite>
+
+        <testsuite name="Integration Test">
+            <directory>test/Integration/</directory>
+        </testsuite>
+
+        <testsuite name="API Test">
+            <directory>test/ApiTest/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

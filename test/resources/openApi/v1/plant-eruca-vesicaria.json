@@ -1,0 +1,2825 @@
+{
+  "data": {
+    "id": 129301,
+    "common_name": "rocketsalad",
+    "slug": "eruca-vesicaria",
+    "scientific_name": "Eruca vesicaria",
+    "main_species_id": 134934,
+    "image_url": "https://bs.plantnet.org/image/o/f04b841babe6eea64cce60d777296f03298240fb",
+    "year": 1802,
+    "bibliography": "G. Hegi, Ill. Fl. Mitt._Eur. 4(1):201.  1918",
+    "author": "Thell. (Mill.)",
+    "family_common_name": "Mustard family",
+    "genus_id": 2862,
+    "observations": "Medit. to China and Arabian Pen.",
+    "vegetable": true,
+    "links": {
+      "self": "/api/v1/plants/eruca-vesicaria",
+      "species": "/api/v1/plants/eruca-vesicaria/species",
+      "genus": "/api/v1/genus/eruca"
+    },
+    "main_species": {
+      "id": 134934,
+      "common_name": "Rocketsalad",
+      "slug": "eruca-vesicaria",
+      "scientific_name": "Eruca vesicaria",
+      "year": 1802,
+      "bibliography": "G. Hegi, Ill. Fl. Mitt._Eur. 4(1):201.  1918",
+      "author": "Thell. (Mill.)",
+      "status": "accepted",
+      "rank": "species",
+      "family_common_name": "Mustard family",
+      "genus_id": 2862,
+      "observations": "Medit. to China and Arabian Pen.",
+      "vegetable": true,
+      "image_url": "https://bs.plantnet.org/image/o/f04b841babe6eea64cce60d777296f03298240fb",
+      "genus": "Eruca",
+      "family": "Brassicaceae",
+      "duration": [
+        "annual"
+      ],
+      "edible_part": [
+        "leaves"
+      ],
+      "edible": true,
+      "images": {
+        "flower": [
+          {
+            "id": 3296425,
+            "image_url": "https://bs.plantnet.org/image/o/2b7a6267d07e0d4cf574305dc3134cf5974ee18c",
+            "copyright": "Taken Feb 28, 2017 by Matesanz Ángel (cc-by-sa)"
+          },
+          {
+            "id": 3296427,
+            "image_url": "https://bs.plantnet.org/image/o/f04b841babe6eea64cce60d777296f03298240fb",
+            "copyright": "Taken Jan 8, 2019 by Luc Tramcourt (cc-by-sa)"
+          }
+        ],
+        "fruit": [
+          {
+            "id": 3296441,
+            "image_url": "https://bs.plantnet.org/image/o/243de2e2c773d4d44f40102384a58ce162f9b7c8",
+            "copyright": "Taken Feb 5, 2016 by Tela Botanica − Ans GORTER (cc-by-sa)"
+          },
+          {
+            "id": 3296442,
+            "image_url": "https://bs.plantnet.org/image/o/04f70d96a4e9a02fe3595dedf6949617b678d66b",
+            "copyright": "Taken Jun 4, 2019 by Marco Scalisi (cc-by-sa)"
+          }
+        ],
+        "bark": [
+          {
+            "id": 3296447,
+            "image_url": "https://bs.plantnet.org/image/o/17521033bf0b77ffcf670b8a4cf07152ae494054",
+            "copyright": "Taken May 5, 2019 by Tarmorin (cc-by-sa)"
+          }
+        ],
+        "": [
+          {
+            "id": 3547557,
+            "image_url": "https://d2seqvvyy3b8p2.cloudfront.net/da3e3e3efc8925b7ee6a775640b53e35.jpg",
+            "copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+          },
+          {
+            "id": 3547556,
+            "image_url": "https://d2seqvvyy3b8p2.cloudfront.net/c1dc216b5d6214474a7cfc1ffd62b26e.jpg",
+            "copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+          },
+          {
+            "id": 3547555,
+            "image_url": "https://d2seqvvyy3b8p2.cloudfront.net/64b9a46ca26e3a80abdb0b6b9df6c25f.jpg",
+            "copyright": "© copyright of the Board of Trustees of the Royal Botanic Gardens, Kew."
+          }
+        ]
+      },
+      "common_names": {
+        "en": [
+          "Rocketsalad",
+          "Arugula",
+          "Edible Rocket",
+          "Garden rocket",
+          "Italian Cress",
+          "Roman Rocket",
+          "Salad Rocket",
+          "Rocket-salad",
+          "Rocket",
+          "Rocket Sallad",
+          "Roquette",
+          "Rugula"
+        ],
+        "af": [
+          "Slaai eruca"
+        ],
+        "ar": [
+          "جرجير",
+          "Jarjeer",
+          "Jarjir",
+          "Gargir",
+          "جرجير(جَرجير)، روق (رَوْق)",
+          "جرجِير",
+          "جرى (جِرى)",
+          "شلطام (شِلطام)، شرطام (شِرطام)"
+        ],
+        "ca": [
+          "Ruca"
+        ],
+        "hr": [
+          "Povrtna riga"
+        ],
+        "cs": [
+          "Eruka siata"
+        ],
+        "da": [
+          "Almindelig boghvede",
+          "Slangeurt",
+          "Syren-pileurt",
+          "Tatarisk boghvede"
+        ],
+        "nl": [
+          "Zwaardherik"
+        ],
+        "et": [
+          "Põld-võõrkopsas"
+        ],
+        "fi": [
+          "Sinappikaali"
+        ],
+        "fr": [
+          "Roquette",
+          "Roquette cultivée",
+          "Fausse Giroflée"
+        ],
+        "de": [
+          "Senfrauke",
+          "Ölrauke",
+          "Doppelrauke",
+          "Garten-Senfrauke",
+          "Rauke",
+          "Raukenkohl",
+          "Rucula",
+          "Ruke",
+          "Rukula",
+          "Salat-Rauke",
+          "Schmalblättriger Doppelsame",
+          "Wilde Rauke",
+          "Wilde Senfrauke",
+          "Rucola",
+          "Salatrauke"
+        ],
+        "it": [
+          "Rucola",
+          "Ruchetta",
+          "Ruca"
+        ],
+        "lt": [
+          "Pūslėtoji gražgarstė"
+        ],
+        "mk": [
+          "Рукола"
+        ],
+        "pt": [
+          "Eruca",
+          "Rúcula"
+        ],
+        "es": [
+          "Oruga",
+          "Oruga común",
+          "Rúcula",
+          "Arrúgula",
+          "Jaramago",
+          "Roqueta"
+        ],
+        "sv": [
+          "Senapskål (växt)",
+          "Bovete",
+          "Sibirisk bovete",
+          "Stor ormrot",
+          "Syrenslide",
+          "Senapskål"
+        ],
+        "cy": [
+          "Roced yr ardd"
+        ],
+        "dan": [
+          "almindelig boghvede",
+          "slangeurt",
+          "syren-pileurt",
+          "tatarisk boghvede"
+        ],
+        "swe": [
+          "bovete",
+          "sibirisk bovete",
+          "stor ormrot",
+          "syrenslide",
+          "senapskål"
+        ],
+        "eng": [
+          "garden rocket",
+          "rocketsalad",
+          "edible rocket",
+          "rocket-salad",
+          "salad rocket"
+        ],
+        "lit": [
+          "pūslėtoji gražgarstė"
+        ],
+        "ces": [
+          "eruka siata"
+        ],
+        "est": [
+          "põld-võõrkopsas"
+        ],
+        "nld": [
+          "zwaardherik"
+        ],
+        "fra": [
+          "roquette"
+        ]
+      },
+      "distribution": {
+        "native": [
+          "Afghanistan",
+          "Algeria",
+          "Baleares",
+          "Bulgaria",
+          "China North-Central",
+          "China South-Central",
+          "China Southeast",
+          "Corse",
+          "Cyprus",
+          "East Aegean Is.",
+          "Egypt",
+          "Greece",
+          "Gulf States",
+          "Inner Mongolia",
+          "Iran",
+          "Iraq",
+          "Italy",
+          "Kazakhstan",
+          "Kirgizstan",
+          "Kriti",
+          "Krym",
+          "Kuwait",
+          "Lebanon-Syria",
+          "Libya",
+          "Manchuria",
+          "Mongolia",
+          "Morocco",
+          "Pakistan",
+          "Palestine",
+          "Portugal",
+          "Qinghai",
+          "Sardegna",
+          "Saudi Arabia",
+          "Sicilia",
+          "Sinai",
+          "Spain",
+          "Tadzhikistan",
+          "Tunisia",
+          "Turkey",
+          "Turkey-in-Europe",
+          "Turkmenistan",
+          "Uzbekistan",
+          "Western Sahara",
+          "Xinjiang",
+          "Yemen"
+        ],
+        "introduced": [
+          "Albania",
+          "Alberta",
+          "Argentina Northeast",
+          "Argentina Northwest",
+          "Argentina South",
+          "Austria",
+          "Baltic States",
+          "Bangladesh",
+          "Belarus",
+          "Belgium",
+          "Bolivia",
+          "British Columbia",
+          "Buryatiya",
+          "California",
+          "Canary Is.",
+          "Central European Rus",
+          "Chad",
+          "Chile Central",
+          "Colombia",
+          "Colorado",
+          "Connecticut",
+          "Czechoslovakia",
+          "East European Russia",
+          "Ecuador",
+          "El Salvador",
+          "Eritrea",
+          "Ethiopia",
+          "France",
+          "Free State",
+          "Germany",
+          "Hungary",
+          "Illinois",
+          "India",
+          "Iowa",
+          "Japan",
+          "Kansas",
+          "Madeira",
+          "Manitoba",
+          "Maryland",
+          "Mauritania",
+          "Mexico Central",
+          "Mexico Northeast",
+          "Mexico Northwest",
+          "Mexico Southwest",
+          "Michigan",
+          "Missouri",
+          "Montana",
+          "Nebraska",
+          "Nevada",
+          "New Jersey",
+          "New Mexico",
+          "New York",
+          "North Caucasus",
+          "North Dakota",
+          "Northern Provinces",
+          "Northwest European R",
+          "Norway",
+          "Ontario",
+          "Oregon",
+          "Paraguay",
+          "Pennsylvania",
+          "Poland",
+          "Primorye",
+          "Québec",
+          "Romania",
+          "Saskatchewan",
+          "Somalia",
+          "South Dakota",
+          "Sudan",
+          "Switzerland",
+          "Texas",
+          "Ukraine",
+          "Utah",
+          "Vermont",
+          "Washington",
+          "West Himalaya",
+          "West Siberia",
+          "West Virginia",
+          "Yugoslavia",
+          "Zimbabwe"
+        ]
+      },
+      "distributions": {
+        "native": [
+          {
+            "id": 151,
+            "name": "Afghanistan",
+            "slug": "afg",
+            "tdwg_code": "AFG",
+            "tdwg_level": 3,
+            "species_count": 4544,
+            "links": {
+              "self": "/api/v1/distributions/afg",
+              "plants": "/api/v1/distributions/afg/plants",
+              "species": "/api/v1/distributions/afg/species"
+            }
+          },
+          {
+            "id": 137,
+            "name": "Algeria",
+            "slug": "alg",
+            "tdwg_code": "ALG",
+            "tdwg_level": 3,
+            "species_count": 3880,
+            "links": {
+              "self": "/api/v1/distributions/alg",
+              "plants": "/api/v1/distributions/alg/plants",
+              "species": "/api/v1/distributions/alg/species"
+            }
+          },
+          {
+            "id": 123,
+            "name": "Baleares",
+            "slug": "bal",
+            "tdwg_code": "BAL",
+            "tdwg_level": 3,
+            "species_count": 1583,
+            "links": {
+              "self": "/api/v1/distributions/bal",
+              "plants": "/api/v1/distributions/bal/plants",
+              "species": "/api/v1/distributions/bal/species"
+            }
+          },
+          {
+            "id": 94,
+            "name": "Bulgaria",
+            "slug": "bul",
+            "tdwg_code": "BUL",
+            "tdwg_level": 3,
+            "species_count": 3803,
+            "links": {
+              "self": "/api/v1/distributions/bul",
+              "plants": "/api/v1/distributions/bul/plants",
+              "species": "/api/v1/distributions/bul/species"
+            }
+          },
+          {
+            "id": 249,
+            "name": "China North-Central",
+            "slug": "chn",
+            "tdwg_code": "CHN",
+            "tdwg_level": 3,
+            "species_count": 5646,
+            "links": {
+              "self": "/api/v1/distributions/chn",
+              "plants": "/api/v1/distributions/chn/plants",
+              "species": "/api/v1/distributions/chn/species"
+            }
+          },
+          {
+            "id": 45,
+            "name": "China South-Central",
+            "slug": "chc",
+            "tdwg_code": "CHC",
+            "tdwg_level": 3,
+            "species_count": 19960,
+            "links": {
+              "self": "/api/v1/distributions/chc",
+              "plants": "/api/v1/distributions/chc/plants",
+              "species": "/api/v1/distributions/chc/species"
+            }
+          },
+          {
+            "id": 46,
+            "name": "China Southeast",
+            "slug": "chs",
+            "tdwg_code": "CHS",
+            "tdwg_level": 3,
+            "species_count": 11551,
+            "links": {
+              "self": "/api/v1/distributions/chs",
+              "plants": "/api/v1/distributions/chs/plants",
+              "species": "/api/v1/distributions/chs/species"
+            }
+          },
+          {
+            "id": 125,
+            "name": "Corse",
+            "slug": "cor",
+            "tdwg_code": "COR",
+            "tdwg_level": 3,
+            "species_count": 2266,
+            "links": {
+              "self": "/api/v1/distributions/cor",
+              "plants": "/api/v1/distributions/cor/plants",
+              "species": "/api/v1/distributions/cor/species"
+            }
+          },
+          {
+            "id": 266,
+            "name": "Cyprus",
+            "slug": "cyp",
+            "tdwg_code": "CYP",
+            "tdwg_level": 3,
+            "species_count": 1755,
+            "links": {
+              "self": "/api/v1/distributions/cyp",
+              "plants": "/api/v1/distributions/cyp/plants",
+              "species": "/api/v1/distributions/cyp/species"
+            }
+          },
+          {
+            "id": 118,
+            "name": "East Aegean Is.",
+            "slug": "eai",
+            "tdwg_code": "EAI",
+            "tdwg_level": 3,
+            "species_count": 2259,
+            "links": {
+              "self": "/api/v1/distributions/eai",
+              "plants": "/api/v1/distributions/eai/plants",
+              "species": "/api/v1/distributions/eai/species"
+            }
+          },
+          {
+            "id": 7,
+            "name": "Egypt",
+            "slug": "egy",
+            "tdwg_code": "EGY",
+            "tdwg_level": 3,
+            "species_count": 1806,
+            "links": {
+              "self": "/api/v1/distributions/egy",
+              "plants": "/api/v1/distributions/egy/plants",
+              "species": "/api/v1/distributions/egy/species"
+            }
+          },
+          {
+            "id": 95,
+            "name": "Greece",
+            "slug": "grc",
+            "tdwg_code": "GRC",
+            "tdwg_level": 3,
+            "species_count": 5483,
+            "links": {
+              "self": "/api/v1/distributions/grc",
+              "plants": "/api/v1/distributions/grc/plants",
+              "species": "/api/v1/distributions/grc/species"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Gulf States",
+            "slug": "gst",
+            "tdwg_code": "GST",
+            "tdwg_level": 3,
+            "species_count": 744,
+            "links": {
+              "self": "/api/v1/distributions/gst",
+              "plants": "/api/v1/distributions/gst/plants",
+              "species": "/api/v1/distributions/gst/species"
+            }
+          },
+          {
+            "id": 317,
+            "name": "Inner Mongolia",
+            "slug": "chi",
+            "tdwg_code": "CHI",
+            "tdwg_level": 3,
+            "species_count": 2242,
+            "links": {
+              "self": "/api/v1/distributions/chi",
+              "plants": "/api/v1/distributions/chi/plants",
+              "species": "/api/v1/distributions/chi/species"
+            }
+          },
+          {
+            "id": 11,
+            "name": "Iran",
+            "slug": "irn",
+            "tdwg_code": "IRN",
+            "tdwg_level": 3,
+            "species_count": 8134,
+            "links": {
+              "self": "/api/v1/distributions/irn",
+              "plants": "/api/v1/distributions/irn/plants",
+              "species": "/api/v1/distributions/irn/species"
+            }
+          },
+          {
+            "id": 108,
+            "name": "Iraq",
+            "slug": "irq",
+            "tdwg_code": "IRQ",
+            "tdwg_level": 3,
+            "species_count": 3219,
+            "links": {
+              "self": "/api/v1/distributions/irq",
+              "plants": "/api/v1/distributions/irq/plants",
+              "species": "/api/v1/distributions/irq/species"
+            }
+          },
+          {
+            "id": 119,
+            "name": "Italy",
+            "slug": "ita",
+            "tdwg_code": "ITA",
+            "tdwg_level": 3,
+            "species_count": 6567,
+            "links": {
+              "self": "/api/v1/distributions/ita",
+              "plants": "/api/v1/distributions/ita/plants",
+              "species": "/api/v1/distributions/ita/species"
+            }
+          },
+          {
+            "id": 267,
+            "name": "Kazakhstan",
+            "slug": "kaz",
+            "tdwg_code": "KAZ",
+            "tdwg_level": 3,
+            "species_count": 5233,
+            "links": {
+              "self": "/api/v1/distributions/kaz",
+              "plants": "/api/v1/distributions/kaz/plants",
+              "species": "/api/v1/distributions/kaz/species"
+            }
+          },
+          {
+            "id": 308,
+            "name": "Kirgizstan",
+            "slug": "kgz",
+            "tdwg_code": "KGZ",
+            "tdwg_level": 3,
+            "species_count": 3892,
+            "links": {
+              "self": "/api/v1/distributions/kgz",
+              "plants": "/api/v1/distributions/kgz/plants",
+              "species": "/api/v1/distributions/kgz/species"
+            }
+          },
+          {
+            "id": 128,
+            "name": "Kriti",
+            "slug": "kri",
+            "tdwg_code": "KRI",
+            "tdwg_level": 3,
+            "species_count": 2089,
+            "links": {
+              "self": "/api/v1/distributions/kri",
+              "plants": "/api/v1/distributions/kri/plants",
+              "species": "/api/v1/distributions/kri/species"
+            }
+          },
+          {
+            "id": 268,
+            "name": "Krym",
+            "slug": "kry",
+            "tdwg_code": "KRY",
+            "tdwg_level": 3,
+            "species_count": 2434,
+            "links": {
+              "self": "/api/v1/distributions/kry",
+              "plants": "/api/v1/distributions/kry/plants",
+              "species": "/api/v1/distributions/kry/species"
+            }
+          },
+          {
+            "id": 336,
+            "name": "Kuwait",
+            "slug": "kuw",
+            "tdwg_code": "KUW",
+            "tdwg_level": 3,
+            "species_count": 329,
+            "links": {
+              "self": "/api/v1/distributions/kuw",
+              "plants": "/api/v1/distributions/kuw/plants",
+              "species": "/api/v1/distributions/kuw/species"
+            }
+          },
+          {
+            "id": 109,
+            "name": "Lebanon-Syria",
+            "slug": "lbs",
+            "tdwg_code": "LBS",
+            "tdwg_level": 3,
+            "species_count": 3992,
+            "links": {
+              "self": "/api/v1/distributions/lbs",
+              "plants": "/api/v1/distributions/lbs/plants",
+              "species": "/api/v1/distributions/lbs/species"
+            }
+          },
+          {
+            "id": 269,
+            "name": "Libya",
+            "slug": "lby",
+            "tdwg_code": "LBY",
+            "tdwg_level": 3,
+            "species_count": 1943,
+            "links": {
+              "self": "/api/v1/distributions/lby",
+              "plants": "/api/v1/distributions/lby/plants",
+              "species": "/api/v1/distributions/lby/species"
+            }
+          },
+          {
+            "id": 310,
+            "name": "Manchuria",
+            "slug": "chm",
+            "tdwg_code": "CHM",
+            "tdwg_level": 3,
+            "species_count": 2523,
+            "links": {
+              "self": "/api/v1/distributions/chm",
+              "plants": "/api/v1/distributions/chm/plants",
+              "species": "/api/v1/distributions/chm/species"
+            }
+          },
+          {
+            "id": 321,
+            "name": "Mongolia",
+            "slug": "mon",
+            "tdwg_code": "MON",
+            "tdwg_level": 3,
+            "species_count": 2761,
+            "links": {
+              "self": "/api/v1/distributions/mon",
+              "plants": "/api/v1/distributions/mon/plants",
+              "species": "/api/v1/distributions/mon/species"
+            }
+          },
+          {
+            "id": 131,
+            "name": "Morocco",
+            "slug": "mor",
+            "tdwg_code": "MOR",
+            "tdwg_level": 3,
+            "species_count": 4585,
+            "links": {
+              "self": "/api/v1/distributions/mor",
+              "plants": "/api/v1/distributions/mor/plants",
+              "species": "/api/v1/distributions/mor/species"
+            }
+          },
+          {
+            "id": 17,
+            "name": "Pakistan",
+            "slug": "pak",
+            "tdwg_code": "PAK",
+            "tdwg_level": 3,
+            "species_count": 4456,
+            "links": {
+              "self": "/api/v1/distributions/pak",
+              "plants": "/api/v1/distributions/pak/plants",
+              "species": "/api/v1/distributions/pak/species"
+            }
+          },
+          {
+            "id": 117,
+            "name": "Palestine",
+            "slug": "pal",
+            "tdwg_code": "PAL",
+            "tdwg_level": 3,
+            "species_count": 2962,
+            "links": {
+              "self": "/api/v1/distributions/pal",
+              "plants": "/api/v1/distributions/pal/plants",
+              "species": "/api/v1/distributions/pal/species"
+            }
+          },
+          {
+            "id": 134,
+            "name": "Portugal",
+            "slug": "por",
+            "tdwg_code": "POR",
+            "tdwg_level": 3,
+            "species_count": 3038,
+            "links": {
+              "self": "/api/v1/distributions/por",
+              "plants": "/api/v1/distributions/por/plants",
+              "species": "/api/v1/distributions/por/species"
+            }
+          },
+          {
+            "id": 322,
+            "name": "Qinghai",
+            "slug": "chq",
+            "tdwg_code": "CHQ",
+            "tdwg_level": 3,
+            "species_count": 2226,
+            "links": {
+              "self": "/api/v1/distributions/chq",
+              "plants": "/api/v1/distributions/chq/plants",
+              "species": "/api/v1/distributions/chq/species"
+            }
+          },
+          {
+            "id": 120,
+            "name": "Sardegna",
+            "slug": "sar",
+            "tdwg_code": "SAR",
+            "tdwg_level": 3,
+            "species_count": 2157,
+            "links": {
+              "self": "/api/v1/distributions/sar",
+              "plants": "/api/v1/distributions/sar/plants",
+              "species": "/api/v1/distributions/sar/species"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Saudi Arabia",
+            "slug": "sau",
+            "tdwg_code": "SAU",
+            "tdwg_level": 3,
+            "species_count": 2151,
+            "links": {
+              "self": "/api/v1/distributions/sau",
+              "plants": "/api/v1/distributions/sau/plants",
+              "species": "/api/v1/distributions/sau/species"
+            }
+          },
+          {
+            "id": 121,
+            "name": "Sicilia",
+            "slug": "sic",
+            "tdwg_code": "SIC",
+            "tdwg_level": 3,
+            "species_count": 2714,
+            "links": {
+              "self": "/api/v1/distributions/sic",
+              "plants": "/api/v1/distributions/sic/plants",
+              "species": "/api/v1/distributions/sic/species"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Sinai",
+            "slug": "sin",
+            "tdwg_code": "SIN",
+            "tdwg_level": 3,
+            "species_count": 1287,
+            "links": {
+              "self": "/api/v1/distributions/sin",
+              "plants": "/api/v1/distributions/sin/plants",
+              "species": "/api/v1/distributions/sin/species"
+            }
+          },
+          {
+            "id": 135,
+            "name": "Spain",
+            "slug": "spa",
+            "tdwg_code": "SPA",
+            "tdwg_level": 3,
+            "species_count": 7017,
+            "links": {
+              "self": "/api/v1/distributions/spa",
+              "plants": "/api/v1/distributions/spa/plants",
+              "species": "/api/v1/distributions/spa/species"
+            }
+          },
+          {
+            "id": 271,
+            "name": "Tadzhikistan",
+            "slug": "tzk",
+            "tdwg_code": "TZK",
+            "tdwg_level": 3,
+            "species_count": 4295,
+            "links": {
+              "self": "/api/v1/distributions/tzk",
+              "plants": "/api/v1/distributions/tzk/plants",
+              "species": "/api/v1/distributions/tzk/species"
+            }
+          },
+          {
+            "id": 295,
+            "name": "Tunisia",
+            "slug": "tun",
+            "tdwg_code": "TUN",
+            "tdwg_level": 3,
+            "species_count": 2561,
+            "links": {
+              "self": "/api/v1/distributions/tun",
+              "plants": "/api/v1/distributions/tun/plants",
+              "species": "/api/v1/distributions/tun/species"
+            }
+          },
+          {
+            "id": 107,
+            "name": "Turkey",
+            "slug": "tur",
+            "tdwg_code": "TUR",
+            "tdwg_level": 3,
+            "species_count": 10277,
+            "links": {
+              "self": "/api/v1/distributions/tur",
+              "plants": "/api/v1/distributions/tur/plants",
+              "species": "/api/v1/distributions/tur/species"
+            }
+          },
+          {
+            "id": 97,
+            "name": "Turkey-in-Europe",
+            "slug": "tue",
+            "tdwg_code": "TUE",
+            "tdwg_level": 3,
+            "species_count": 2283,
+            "links": {
+              "self": "/api/v1/distributions/tue",
+              "plants": "/api/v1/distributions/tue/plants",
+              "species": "/api/v1/distributions/tue/species"
+            }
+          },
+          {
+            "id": 337,
+            "name": "Turkmenistan",
+            "slug": "tkm",
+            "tdwg_code": "TKM",
+            "tdwg_level": 3,
+            "species_count": 2736,
+            "links": {
+              "self": "/api/v1/distributions/tkm",
+              "plants": "/api/v1/distributions/tkm/plants",
+              "species": "/api/v1/distributions/tkm/species"
+            }
+          },
+          {
+            "id": 274,
+            "name": "Uzbekistan",
+            "slug": "uzb",
+            "tdwg_code": "UZB",
+            "tdwg_level": 3,
+            "species_count": 3831,
+            "links": {
+              "self": "/api/v1/distributions/uzb",
+              "plants": "/api/v1/distributions/uzb/plants",
+              "species": "/api/v1/distributions/uzb/species"
+            }
+          },
+          {
+            "id": 38,
+            "name": "Western Sahara",
+            "slug": "wsa",
+            "tdwg_code": "WSA",
+            "tdwg_level": 3,
+            "species_count": 392,
+            "links": {
+              "self": "/api/v1/distributions/wsa",
+              "plants": "/api/v1/distributions/wsa/plants",
+              "species": "/api/v1/distributions/wsa/species"
+            }
+          },
+          {
+            "id": 324,
+            "name": "Xinjiang",
+            "slug": "chx",
+            "tdwg_code": "CHX",
+            "tdwg_level": 3,
+            "species_count": 3446,
+            "links": {
+              "self": "/api/v1/distributions/chx",
+              "plants": "/api/v1/distributions/chx/plants",
+              "species": "/api/v1/distributions/chx/species"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Yemen",
+            "slug": "yem",
+            "tdwg_code": "YEM",
+            "tdwg_level": 3,
+            "species_count": 2088,
+            "links": {
+              "self": "/api/v1/distributions/yem",
+              "plants": "/api/v1/distributions/yem/plants",
+              "species": "/api/v1/distributions/yem/species"
+            }
+          }
+        ],
+        "introduced": [
+          {
+            "id": 93,
+            "name": "Albania",
+            "slug": "alb",
+            "tdwg_code": "ALB",
+            "tdwg_level": 3,
+            "species_count": 3429,
+            "links": {
+              "self": "/api/v1/distributions/alb",
+              "plants": "/api/v1/distributions/alb/plants",
+              "species": "/api/v1/distributions/alb/species"
+            }
+          },
+          {
+            "id": 326,
+            "name": "Alberta",
+            "slug": "abt",
+            "tdwg_code": "ABT",
+            "tdwg_level": 3,
+            "species_count": 1776,
+            "links": {
+              "self": "/api/v1/distributions/abt",
+              "plants": "/api/v1/distributions/abt/plants",
+              "species": "/api/v1/distributions/abt/species"
+            }
+          },
+          {
+            "id": 169,
+            "name": "Argentina Northeast",
+            "slug": "age",
+            "tdwg_code": "AGE",
+            "tdwg_level": 3,
+            "species_count": 6048,
+            "links": {
+              "self": "/api/v1/distributions/age",
+              "plants": "/api/v1/distributions/age/plants",
+              "species": "/api/v1/distributions/age/species"
+            }
+          },
+          {
+            "id": 171,
+            "name": "Argentina Northwest",
+            "slug": "agw",
+            "tdwg_code": "AGW",
+            "tdwg_level": 3,
+            "species_count": 5760,
+            "links": {
+              "self": "/api/v1/distributions/agw",
+              "plants": "/api/v1/distributions/agw/plants",
+              "species": "/api/v1/distributions/agw/species"
+            }
+          },
+          {
+            "id": 264,
+            "name": "Argentina South",
+            "slug": "ags",
+            "tdwg_code": "AGS",
+            "tdwg_level": 3,
+            "species_count": 2507,
+            "links": {
+              "self": "/api/v1/distributions/ags",
+              "plants": "/api/v1/distributions/ags/plants",
+              "species": "/api/v1/distributions/ags/species"
+            }
+          },
+          {
+            "id": 275,
+            "name": "Austria",
+            "slug": "aut",
+            "tdwg_code": "AUT",
+            "tdwg_level": 3,
+            "species_count": 4208,
+            "links": {
+              "self": "/api/v1/distributions/aut",
+              "plants": "/api/v1/distributions/aut/plants",
+              "species": "/api/v1/distributions/aut/species"
+            }
+          },
+          {
+            "id": 276,
+            "name": "Baltic States",
+            "slug": "blt",
+            "tdwg_code": "BLT",
+            "tdwg_level": 3,
+            "species_count": 2058,
+            "links": {
+              "self": "/api/v1/distributions/blt",
+              "plants": "/api/v1/distributions/blt/plants",
+              "species": "/api/v1/distributions/blt/species"
+            }
+          },
+          {
+            "id": 41,
+            "name": "Bangladesh",
+            "slug": "ban",
+            "tdwg_code": "BAN",
+            "tdwg_level": 3,
+            "species_count": 4664,
+            "links": {
+              "self": "/api/v1/distributions/ban",
+              "plants": "/api/v1/distributions/ban/plants",
+              "species": "/api/v1/distributions/ban/species"
+            }
+          },
+          {
+            "id": 277,
+            "name": "Belarus",
+            "slug": "blr",
+            "tdwg_code": "BLR",
+            "tdwg_level": 3,
+            "species_count": 1660,
+            "links": {
+              "self": "/api/v1/distributions/blr",
+              "plants": "/api/v1/distributions/blr/plants",
+              "species": "/api/v1/distributions/blr/species"
+            }
+          },
+          {
+            "id": 278,
+            "name": "Belgium",
+            "slug": "bgm",
+            "tdwg_code": "BGM",
+            "tdwg_level": 3,
+            "species_count": 2552,
+            "links": {
+              "self": "/api/v1/distributions/bgm",
+              "plants": "/api/v1/distributions/bgm/plants",
+              "species": "/api/v1/distributions/bgm/species"
+            }
+          },
+          {
+            "id": 77,
+            "name": "Bolivia",
+            "slug": "bol",
+            "tdwg_code": "BOL",
+            "tdwg_level": 3,
+            "species_count": 14675,
+            "links": {
+              "self": "/api/v1/distributions/bol",
+              "plants": "/api/v1/distributions/bol/plants",
+              "species": "/api/v1/distributions/bol/species"
+            }
+          },
+          {
+            "id": 297,
+            "name": "British Columbia",
+            "slug": "brc",
+            "tdwg_code": "BRC",
+            "tdwg_level": 3,
+            "species_count": 2886,
+            "links": {
+              "self": "/api/v1/distributions/brc",
+              "plants": "/api/v1/distributions/brc/plants",
+              "species": "/api/v1/distributions/brc/species"
+            }
+          },
+          {
+            "id": 305,
+            "name": "Buryatiya",
+            "slug": "bry",
+            "tdwg_code": "BRY",
+            "tdwg_level": 3,
+            "species_count": 1804,
+            "links": {
+              "self": "/api/v1/distributions/bry",
+              "plants": "/api/v1/distributions/bry/plants",
+              "species": "/api/v1/distributions/bry/species"
+            }
+          },
+          {
+            "id": 211,
+            "name": "California",
+            "slug": "cal",
+            "tdwg_code": "CAL",
+            "tdwg_level": 3,
+            "species_count": 7423,
+            "links": {
+              "self": "/api/v1/distributions/cal",
+              "plants": "/api/v1/distributions/cal/plants",
+              "species": "/api/v1/distributions/cal/species"
+            }
+          },
+          {
+            "id": 124,
+            "name": "Canary Is.",
+            "slug": "cny",
+            "tdwg_code": "CNY",
+            "tdwg_level": 3,
+            "species_count": 2360,
+            "links": {
+              "self": "/api/v1/distributions/cny",
+              "plants": "/api/v1/distributions/cny/plants",
+              "species": "/api/v1/distributions/cny/species"
+            }
+          },
+          {
+            "id": 279,
+            "name": "Central European Rus",
+            "slug": "ruc",
+            "tdwg_code": "RUC",
+            "tdwg_level": 3,
+            "species_count": 2297,
+            "links": {
+              "self": "/api/v1/distributions/ruc",
+              "plants": "/api/v1/distributions/ruc/plants",
+              "species": "/api/v1/distributions/ruc/species"
+            }
+          },
+          {
+            "id": 5,
+            "name": "Chad",
+            "slug": "cha",
+            "tdwg_code": "CHA",
+            "tdwg_level": 3,
+            "species_count": 2288,
+            "links": {
+              "self": "/api/v1/distributions/cha",
+              "plants": "/api/v1/distributions/cha/plants",
+              "species": "/api/v1/distributions/cha/species"
+            }
+          },
+          {
+            "id": 223,
+            "name": "Chile Central",
+            "slug": "clc",
+            "tdwg_code": "CLC",
+            "tdwg_level": 3,
+            "species_count": 3394,
+            "links": {
+              "self": "/api/v1/distributions/clc",
+              "plants": "/api/v1/distributions/clc/plants",
+              "species": "/api/v1/distributions/clc/species"
+            }
+          },
+          {
+            "id": 82,
+            "name": "Colombia",
+            "slug": "clm",
+            "tdwg_code": "CLM",
+            "tdwg_level": 3,
+            "species_count": 23796,
+            "links": {
+              "self": "/api/v1/distributions/clm",
+              "plants": "/api/v1/distributions/clm/plants",
+              "species": "/api/v1/distributions/clm/species"
+            }
+          },
+          {
+            "id": 298,
+            "name": "Colorado",
+            "slug": "col",
+            "tdwg_code": "COL",
+            "tdwg_level": 3,
+            "species_count": 3384,
+            "links": {
+              "self": "/api/v1/distributions/col",
+              "plants": "/api/v1/distributions/col/plants",
+              "species": "/api/v1/distributions/col/species"
+            }
+          },
+          {
+            "id": 252,
+            "name": "Connecticut",
+            "slug": "cnt",
+            "tdwg_code": "CNT",
+            "tdwg_level": 3,
+            "species_count": 2163,
+            "links": {
+              "self": "/api/v1/distributions/cnt",
+              "plants": "/api/v1/distributions/cnt/plants",
+              "species": "/api/v1/distributions/cnt/species"
+            }
+          },
+          {
+            "id": 99,
+            "name": "Czechoslovakia",
+            "slug": "cze",
+            "tdwg_code": "CZE",
+            "tdwg_level": 3,
+            "species_count": 4351,
+            "links": {
+              "self": "/api/v1/distributions/cze",
+              "plants": "/api/v1/distributions/cze/plants",
+              "species": "/api/v1/distributions/cze/species"
+            }
+          },
+          {
+            "id": 281,
+            "name": "East European Russia",
+            "slug": "rue",
+            "tdwg_code": "RUE",
+            "tdwg_level": 3,
+            "species_count": 2202,
+            "links": {
+              "self": "/api/v1/distributions/rue",
+              "plants": "/api/v1/distributions/rue/plants",
+              "species": "/api/v1/distributions/rue/species"
+            }
+          },
+          {
+            "id": 83,
+            "name": "Ecuador",
+            "slug": "ecu",
+            "tdwg_code": "ECU",
+            "tdwg_level": 3,
+            "species_count": 17365,
+            "links": {
+              "self": "/api/v1/distributions/ecu",
+              "plants": "/api/v1/distributions/ecu/plants",
+              "species": "/api/v1/distributions/ecu/species"
+            }
+          },
+          {
+            "id": 84,
+            "name": "El Salvador",
+            "slug": "els",
+            "tdwg_code": "ELS",
+            "tdwg_level": 3,
+            "species_count": 3638,
+            "links": {
+              "self": "/api/v1/distributions/els",
+              "plants": "/api/v1/distributions/els/plants",
+              "species": "/api/v1/distributions/els/species"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Eritrea",
+            "slug": "eri",
+            "tdwg_code": "ERI",
+            "tdwg_level": 3,
+            "species_count": 1982,
+            "links": {
+              "self": "/api/v1/distributions/eri",
+              "plants": "/api/v1/distributions/eri/plants",
+              "species": "/api/v1/distributions/eri/species"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Ethiopia",
+            "slug": "eth",
+            "tdwg_code": "ETH",
+            "tdwg_level": 3,
+            "species_count": 5496,
+            "links": {
+              "self": "/api/v1/distributions/eth",
+              "plants": "/api/v1/distributions/eth/plants",
+              "species": "/api/v1/distributions/eth/species"
+            }
+          },
+          {
+            "id": 126,
+            "name": "France",
+            "slug": "fra",
+            "tdwg_code": "FRA",
+            "tdwg_level": 3,
+            "species_count": 6806,
+            "links": {
+              "self": "/api/v1/distributions/fra",
+              "plants": "/api/v1/distributions/fra/plants",
+              "species": "/api/v1/distributions/fra/species"
+            }
+          },
+          {
+            "id": 90,
+            "name": "Free State",
+            "slug": "ofs",
+            "tdwg_code": "OFS",
+            "tdwg_level": 3,
+            "species_count": 2994,
+            "links": {
+              "self": "/api/v1/distributions/ofs",
+              "plants": "/api/v1/distributions/ofs/plants",
+              "species": "/api/v1/distributions/ofs/species"
+            }
+          },
+          {
+            "id": 284,
+            "name": "Germany",
+            "slug": "ger",
+            "tdwg_code": "GER",
+            "tdwg_level": 3,
+            "species_count": 4652,
+            "links": {
+              "self": "/api/v1/distributions/ger",
+              "plants": "/api/v1/distributions/ger/plants",
+              "species": "/api/v1/distributions/ger/species"
+            }
+          },
+          {
+            "id": 285,
+            "name": "Hungary",
+            "slug": "hun",
+            "tdwg_code": "HUN",
+            "tdwg_level": 3,
+            "species_count": 2672,
+            "links": {
+              "self": "/api/v1/distributions/hun",
+              "plants": "/api/v1/distributions/hun/plants",
+              "species": "/api/v1/distributions/hun/species"
+            }
+          },
+          {
+            "id": 145,
+            "name": "Illinois",
+            "slug": "ill",
+            "tdwg_code": "ILL",
+            "tdwg_level": 3,
+            "species_count": 3289,
+            "links": {
+              "self": "/api/v1/distributions/ill",
+              "plants": "/api/v1/distributions/ill/plants",
+              "species": "/api/v1/distributions/ill/species"
+            }
+          },
+          {
+            "id": 28,
+            "name": "India",
+            "slug": "ind",
+            "tdwg_code": "IND",
+            "tdwg_level": 3,
+            "species_count": 7999,
+            "links": {
+              "self": "/api/v1/distributions/ind",
+              "plants": "/api/v1/distributions/ind/plants",
+              "species": "/api/v1/distributions/ind/species"
+            }
+          },
+          {
+            "id": 231,
+            "name": "Iowa",
+            "slug": "iow",
+            "tdwg_code": "IOW",
+            "tdwg_level": 3,
+            "species_count": 1785,
+            "links": {
+              "self": "/api/v1/distributions/iow",
+              "plants": "/api/v1/distributions/iow/plants",
+              "species": "/api/v1/distributions/iow/species"
+            }
+          },
+          {
+            "id": 202,
+            "name": "Japan",
+            "slug": "jap",
+            "tdwg_code": "JAP",
+            "tdwg_level": 3,
+            "species_count": 5739,
+            "links": {
+              "self": "/api/v1/distributions/jap",
+              "plants": "/api/v1/distributions/jap/plants",
+              "species": "/api/v1/distributions/jap/species"
+            }
+          },
+          {
+            "id": 232,
+            "name": "Kansas",
+            "slug": "kan",
+            "tdwg_code": "KAN",
+            "tdwg_level": 3,
+            "species_count": 1956,
+            "links": {
+              "self": "/api/v1/distributions/kan",
+              "plants": "/api/v1/distributions/kan/plants",
+              "species": "/api/v1/distributions/kan/species"
+            }
+          },
+          {
+            "id": 129,
+            "name": "Madeira",
+            "slug": "mdr",
+            "tdwg_code": "MDR",
+            "tdwg_level": 3,
+            "species_count": 1300,
+            "links": {
+              "self": "/api/v1/distributions/mdr",
+              "plants": "/api/v1/distributions/mdr/plants",
+              "species": "/api/v1/distributions/mdr/species"
+            }
+          },
+          {
+            "id": 259,
+            "name": "Manitoba",
+            "slug": "man",
+            "tdwg_code": "MAN",
+            "tdwg_level": 3,
+            "species_count": 1474,
+            "links": {
+              "self": "/api/v1/distributions/man",
+              "plants": "/api/v1/distributions/man/plants",
+              "species": "/api/v1/distributions/man/species"
+            }
+          },
+          {
+            "id": 233,
+            "name": "Maryland",
+            "slug": "mry",
+            "tdwg_code": "MRY",
+            "tdwg_level": 3,
+            "species_count": 2378,
+            "links": {
+              "self": "/api/v1/distributions/mry",
+              "plants": "/api/v1/distributions/mry/plants",
+              "species": "/api/v1/distributions/mry/species"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Mauritania",
+            "slug": "mtn",
+            "tdwg_code": "MTN",
+            "tdwg_level": 3,
+            "species_count": 1081,
+            "links": {
+              "self": "/api/v1/distributions/mtn",
+              "plants": "/api/v1/distributions/mtn/plants",
+              "species": "/api/v1/distributions/mtn/species"
+            }
+          },
+          {
+            "id": 130,
+            "name": "Mexico Central",
+            "slug": "mxc",
+            "tdwg_code": "MXC",
+            "tdwg_level": 3,
+            "species_count": 7332,
+            "links": {
+              "self": "/api/v1/distributions/mxc",
+              "plants": "/api/v1/distributions/mxc/plants",
+              "species": "/api/v1/distributions/mxc/species"
+            }
+          },
+          {
+            "id": 148,
+            "name": "Mexico Northeast",
+            "slug": "mxe",
+            "tdwg_code": "MXE",
+            "tdwg_level": 3,
+            "species_count": 11419,
+            "links": {
+              "self": "/api/v1/distributions/mxe",
+              "plants": "/api/v1/distributions/mxe/plants",
+              "species": "/api/v1/distributions/mxe/species"
+            }
+          },
+          {
+            "id": 165,
+            "name": "Mexico Northwest",
+            "slug": "mxn",
+            "tdwg_code": "MXN",
+            "tdwg_level": 3,
+            "species_count": 7215,
+            "links": {
+              "self": "/api/v1/distributions/mxn",
+              "plants": "/api/v1/distributions/mxn/plants",
+              "species": "/api/v1/distributions/mxn/species"
+            }
+          },
+          {
+            "id": 88,
+            "name": "Mexico Southwest",
+            "slug": "mxs",
+            "tdwg_code": "MXS",
+            "tdwg_level": 3,
+            "species_count": 14008,
+            "links": {
+              "self": "/api/v1/distributions/mxs",
+              "plants": "/api/v1/distributions/mxs/plants",
+              "species": "/api/v1/distributions/mxs/species"
+            }
+          },
+          {
+            "id": 234,
+            "name": "Michigan",
+            "slug": "mic",
+            "tdwg_code": "MIC",
+            "tdwg_level": 3,
+            "species_count": 2388,
+            "links": {
+              "self": "/api/v1/distributions/mic",
+              "plants": "/api/v1/distributions/mic/plants",
+              "species": "/api/v1/distributions/mic/species"
+            }
+          },
+          {
+            "id": 235,
+            "name": "Missouri",
+            "slug": "mso",
+            "tdwg_code": "MSO",
+            "tdwg_level": 3,
+            "species_count": 2448,
+            "links": {
+              "self": "/api/v1/distributions/mso",
+              "plants": "/api/v1/distributions/mso/plants",
+              "species": "/api/v1/distributions/mso/species"
+            }
+          },
+          {
+            "id": 328,
+            "name": "Montana",
+            "slug": "mnt",
+            "tdwg_code": "MNT",
+            "tdwg_level": 3,
+            "species_count": 2484,
+            "links": {
+              "self": "/api/v1/distributions/mnt",
+              "plants": "/api/v1/distributions/mnt/plants",
+              "species": "/api/v1/distributions/mnt/species"
+            }
+          },
+          {
+            "id": 262,
+            "name": "Nebraska",
+            "slug": "neb",
+            "tdwg_code": "NEB",
+            "tdwg_level": 3,
+            "species_count": 1651,
+            "links": {
+              "self": "/api/v1/distributions/neb",
+              "plants": "/api/v1/distributions/neb/plants",
+              "species": "/api/v1/distributions/neb/species"
+            }
+          },
+          {
+            "id": 188,
+            "name": "Nevada",
+            "slug": "nev",
+            "tdwg_code": "NEV",
+            "tdwg_level": 3,
+            "species_count": 3046,
+            "links": {
+              "self": "/api/v1/distributions/nev",
+              "plants": "/api/v1/distributions/nev/plants",
+              "species": "/api/v1/distributions/nev/species"
+            }
+          },
+          {
+            "id": 236,
+            "name": "New Jersey",
+            "slug": "nwj",
+            "tdwg_code": "NWJ",
+            "tdwg_level": 3,
+            "species_count": 2377,
+            "links": {
+              "self": "/api/v1/distributions/nwj",
+              "plants": "/api/v1/distributions/nwj/plants",
+              "species": "/api/v1/distributions/nwj/species"
+            }
+          },
+          {
+            "id": 167,
+            "name": "New Mexico",
+            "slug": "nwm",
+            "tdwg_code": "NWM",
+            "tdwg_level": 3,
+            "species_count": 4103,
+            "links": {
+              "self": "/api/v1/distributions/nwm",
+              "plants": "/api/v1/distributions/nwm/plants",
+              "species": "/api/v1/distributions/nwm/species"
+            }
+          },
+          {
+            "id": 237,
+            "name": "New York",
+            "slug": "nwy",
+            "tdwg_code": "NWY",
+            "tdwg_level": 3,
+            "species_count": 3752,
+            "links": {
+              "self": "/api/v1/distributions/nwy",
+              "plants": "/api/v1/distributions/nwy/plants",
+              "species": "/api/v1/distributions/nwy/species"
+            }
+          },
+          {
+            "id": 288,
+            "name": "North Caucasus",
+            "slug": "ncs",
+            "tdwg_code": "NCS",
+            "tdwg_level": 3,
+            "species_count": 2822,
+            "links": {
+              "self": "/api/v1/distributions/ncs",
+              "plants": "/api/v1/distributions/ncs/plants",
+              "species": "/api/v1/distributions/ncs/species"
+            }
+          },
+          {
+            "id": 332,
+            "name": "North Dakota",
+            "slug": "nda",
+            "tdwg_code": "NDA",
+            "tdwg_level": 3,
+            "species_count": 1281,
+            "links": {
+              "self": "/api/v1/distributions/nda",
+              "plants": "/api/v1/distributions/nda/plants",
+              "species": "/api/v1/distributions/nda/species"
+            }
+          },
+          {
+            "id": 1,
+            "name": "Northern Provinces",
+            "slug": "tvl",
+            "tdwg_code": "TVL",
+            "tdwg_level": 3,
+            "species_count": 5913,
+            "links": {
+              "self": "/api/v1/distributions/tvl",
+              "plants": "/api/v1/distributions/tvl/plants",
+              "species": "/api/v1/distributions/tvl/species"
+            }
+          },
+          {
+            "id": 290,
+            "name": "Northwest European R",
+            "slug": "ruw",
+            "tdwg_code": "RUW",
+            "tdwg_level": 3,
+            "species_count": 1690,
+            "links": {
+              "self": "/api/v1/distributions/ruw",
+              "plants": "/api/v1/distributions/ruw/plants",
+              "species": "/api/v1/distributions/ruw/species"
+            }
+          },
+          {
+            "id": 291,
+            "name": "Norway",
+            "slug": "nor",
+            "tdwg_code": "NOR",
+            "tdwg_level": 3,
+            "species_count": 2302,
+            "links": {
+              "self": "/api/v1/distributions/nor",
+              "plants": "/api/v1/distributions/nor/plants",
+              "species": "/api/v1/distributions/nor/species"
+            }
+          },
+          {
+            "id": 240,
+            "name": "Ontario",
+            "slug": "ont",
+            "tdwg_code": "ONT",
+            "tdwg_level": 3,
+            "species_count": 2661,
+            "links": {
+              "self": "/api/v1/distributions/ont",
+              "plants": "/api/v1/distributions/ont/plants",
+              "species": "/api/v1/distributions/ont/species"
+            }
+          },
+          {
+            "id": 315,
+            "name": "Oregon",
+            "slug": "ore",
+            "tdwg_code": "ORE",
+            "tdwg_level": 3,
+            "species_count": 3837,
+            "links": {
+              "self": "/api/v1/distributions/ore",
+              "plants": "/api/v1/distributions/ore/plants",
+              "species": "/api/v1/distributions/ore/species"
+            }
+          },
+          {
+            "id": 160,
+            "name": "Paraguay",
+            "slug": "par",
+            "tdwg_code": "PAR",
+            "tdwg_level": 3,
+            "species_count": 5419,
+            "links": {
+              "self": "/api/v1/distributions/par",
+              "plants": "/api/v1/distributions/par/plants",
+              "species": "/api/v1/distributions/par/species"
+            }
+          },
+          {
+            "id": 241,
+            "name": "Pennsylvania",
+            "slug": "pen",
+            "tdwg_code": "PEN",
+            "tdwg_level": 3,
+            "species_count": 2729,
+            "links": {
+              "self": "/api/v1/distributions/pen",
+              "plants": "/api/v1/distributions/pen/plants",
+              "species": "/api/v1/distributions/pen/species"
+            }
+          },
+          {
+            "id": 292,
+            "name": "Poland",
+            "slug": "pol",
+            "tdwg_code": "POL",
+            "tdwg_level": 3,
+            "species_count": 3028,
+            "links": {
+              "self": "/api/v1/distributions/pol",
+              "plants": "/api/v1/distributions/pol/plants",
+              "species": "/api/v1/distributions/pol/species"
+            }
+          },
+          {
+            "id": 311,
+            "name": "Primorye",
+            "slug": "prm",
+            "tdwg_code": "PRM",
+            "tdwg_level": 3,
+            "species_count": 2310,
+            "links": {
+              "self": "/api/v1/distributions/prm",
+              "plants": "/api/v1/distributions/prm/plants",
+              "species": "/api/v1/distributions/prm/species"
+            }
+          },
+          {
+            "id": 242,
+            "name": "Québec",
+            "slug": "que",
+            "tdwg_code": "QUE",
+            "tdwg_level": 3,
+            "species_count": 2300,
+            "links": {
+              "self": "/api/v1/distributions/que",
+              "plants": "/api/v1/distributions/que/plants",
+              "species": "/api/v1/distributions/que/species"
+            }
+          },
+          {
+            "id": 96,
+            "name": "Romania",
+            "slug": "rom",
+            "tdwg_code": "ROM",
+            "tdwg_level": 3,
+            "species_count": 3637,
+            "links": {
+              "self": "/api/v1/distributions/rom",
+              "plants": "/api/v1/distributions/rom/plants",
+              "species": "/api/v1/distributions/rom/species"
+            }
+          },
+          {
+            "id": 330,
+            "name": "Saskatchewan",
+            "slug": "sas",
+            "tdwg_code": "SAS",
+            "tdwg_level": 3,
+            "species_count": 1409,
+            "links": {
+              "self": "/api/v1/distributions/sas",
+              "plants": "/api/v1/distributions/sas/plants",
+              "species": "/api/v1/distributions/sas/species"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Somalia",
+            "slug": "som",
+            "tdwg_code": "SOM",
+            "tdwg_level": 3,
+            "species_count": 3224,
+            "links": {
+              "self": "/api/v1/distributions/som",
+              "plants": "/api/v1/distributions/som/plants",
+              "species": "/api/v1/distributions/som/species"
+            }
+          },
+          {
+            "id": 331,
+            "name": "South Dakota",
+            "slug": "sda",
+            "tdwg_code": "SDA",
+            "tdwg_level": 3,
+            "species_count": 1557,
+            "links": {
+              "self": "/api/v1/distributions/sda",
+              "plants": "/api/v1/distributions/sda/plants",
+              "species": "/api/v1/distributions/sda/species"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Sudan",
+            "slug": "sud",
+            "tdwg_code": "SUD",
+            "tdwg_level": 3,
+            "species_count": 4190,
+            "links": {
+              "self": "/api/v1/distributions/sud",
+              "plants": "/api/v1/distributions/sud/plants",
+              "species": "/api/v1/distributions/sud/species"
+            }
+          },
+          {
+            "id": 294,
+            "name": "Switzerland",
+            "slug": "swi",
+            "tdwg_code": "SWI",
+            "tdwg_level": 3,
+            "species_count": 3641,
+            "links": {
+              "self": "/api/v1/distributions/swi",
+              "plants": "/api/v1/distributions/swi/plants",
+              "species": "/api/v1/distributions/swi/species"
+            }
+          },
+          {
+            "id": 168,
+            "name": "Texas",
+            "slug": "tex",
+            "tdwg_code": "TEX",
+            "tdwg_level": 3,
+            "species_count": 5236,
+            "links": {
+              "self": "/api/v1/distributions/tex",
+              "plants": "/api/v1/distributions/tex/plants",
+              "species": "/api/v1/distributions/tex/species"
+            }
+          },
+          {
+            "id": 273,
+            "name": "Ukraine",
+            "slug": "ukr",
+            "tdwg_code": "UKR",
+            "tdwg_level": 3,
+            "species_count": 3491,
+            "links": {
+              "self": "/api/v1/distributions/ukr",
+              "plants": "/api/v1/distributions/ukr/plants",
+              "species": "/api/v1/distributions/ukr/species"
+            }
+          },
+          {
+            "id": 341,
+            "name": "Utah",
+            "slug": "uta",
+            "tdwg_code": "UTA",
+            "tdwg_level": 3,
+            "species_count": 3332,
+            "links": {
+              "self": "/api/v1/distributions/uta",
+              "plants": "/api/v1/distributions/uta/plants",
+              "species": "/api/v1/distributions/uta/species"
+            }
+          },
+          {
+            "id": 243,
+            "name": "Vermont",
+            "slug": "ver",
+            "tdwg_code": "VER",
+            "tdwg_level": 3,
+            "species_count": 2294,
+            "links": {
+              "self": "/api/v1/distributions/ver",
+              "plants": "/api/v1/distributions/ver/plants",
+              "species": "/api/v1/distributions/ver/species"
+            }
+          },
+          {
+            "id": 302,
+            "name": "Washington",
+            "slug": "was",
+            "tdwg_code": "WAS",
+            "tdwg_level": 3,
+            "species_count": 3016,
+            "links": {
+              "self": "/api/v1/distributions/was",
+              "plants": "/api/v1/distributions/was/plants",
+              "species": "/api/v1/distributions/was/species"
+            }
+          },
+          {
+            "id": 73,
+            "name": "West Himalaya",
+            "slug": "whm",
+            "tdwg_code": "WHM",
+            "tdwg_level": 3,
+            "species_count": 5000,
+            "links": {
+              "self": "/api/v1/distributions/whm",
+              "plants": "/api/v1/distributions/whm/plants",
+              "species": "/api/v1/distributions/whm/species"
+            }
+          },
+          {
+            "id": 296,
+            "name": "West Siberia",
+            "slug": "wsb",
+            "tdwg_code": "WSB",
+            "tdwg_level": 3,
+            "species_count": 2291,
+            "links": {
+              "self": "/api/v1/distributions/wsb",
+              "plants": "/api/v1/distributions/wsb/plants",
+              "species": "/api/v1/distributions/wsb/species"
+            }
+          },
+          {
+            "id": 244,
+            "name": "West Virginia",
+            "slug": "wva",
+            "tdwg_code": "WVA",
+            "tdwg_level": 3,
+            "species_count": 2041,
+            "links": {
+              "self": "/api/v1/distributions/wva",
+              "plants": "/api/v1/distributions/wva/plants",
+              "species": "/api/v1/distributions/wva/species"
+            }
+          },
+          {
+            "id": 98,
+            "name": "Yugoslavia",
+            "slug": "yug",
+            "tdwg_code": "YUG",
+            "tdwg_level": 3,
+            "species_count": 5450,
+            "links": {
+              "self": "/api/v1/distributions/yug",
+              "plants": "/api/v1/distributions/yug/plants",
+              "species": "/api/v1/distributions/yug/species"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Zimbabwe",
+            "slug": "zim",
+            "tdwg_code": "ZIM",
+            "tdwg_level": 3,
+            "species_count": 5583,
+            "links": {
+              "self": "/api/v1/distributions/zim",
+              "plants": "/api/v1/distributions/zim/plants",
+              "species": "/api/v1/distributions/zim/species"
+            }
+          }
+        ]
+      },
+      "flower": {
+        "color": [
+          "white",
+          "yellow"
+        ],
+        "conspicuous": true
+      },
+      "foliage": {
+        "texture": "medium",
+        "color": [
+          "green"
+        ],
+        "leaf_retention": false
+      },
+      "fruit_or_seed": {
+        "conspicuous": true,
+        "color": [
+          "green"
+        ],
+        "shape": null,
+        "seed_persistence": false
+      },
+      "sources": [
+        {
+          "last_update": "2020-06-21T20:22:58.551Z",
+          "id": "ERVE5",
+          "name": "USDA",
+          "url": "https://plants.usda.gov/core/profile?symbol=ERVE5",
+          "citation": "https://plants.sc.egov.usda.gov/core/profile?symbol=ERVE5"
+        },
+        {
+          "last_update": "2020-06-23T17:08:04.003Z",
+          "id": "urn:lsid:ipni.org:names:1137625-2",
+          "name": "POWO",
+          "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1137625-2",
+          "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+        },
+        {
+          "last_update": "2020-07-04T18:47:52.983Z",
+          "id": "13/3.0.2.0.3",
+          "name": "CATMINAT",
+          "url": null,
+          "citation": null
+        },
+        {
+          "last_update": "2020-06-16T22:38:19.229Z",
+          "id": "Eruca vesicaria (L.) Cav.",
+          "name": "PlantNet",
+          "url": "https://identify.plantnet.org/species/the-plant-list/Eruca vesicaria (L.) Cav.",
+          "citation": null
+        },
+        {
+          "last_update": "2020-06-16T22:38:19.242Z",
+          "id": "5375920",
+          "name": "GBIF",
+          "url": "https://www.gbif.org/species/5375920",
+          "citation": null
+        },
+        {
+          "last_update": "2020-08-07T05:22:25.030Z",
+          "id": "5375925",
+          "name": "GBIF",
+          "url": "https://www.gbif.org/species/5375925",
+          "citation": null
+        },
+        {
+          "last_update": "2020-08-15T10:35:55.929Z",
+          "id": "Eruca vesicaria",
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eruca vesicaria",
+          "citation": null
+        }
+      ],
+      "specifications": {
+        "ligneous_type": null,
+        "growth_form": "Erect",
+        "growth_habit": "Forb/herb",
+        "growth_rate": "Rapid",
+        "average_height": {
+          "cm": 40
+        },
+        "maximum_height": {
+          "cm": 100
+        },
+        "nitrogen_fixation": null,
+        "shape_and_orientation": null,
+        "toxicity": "none"
+      },
+      "synonyms": [
+        {
+          "id": 11863,
+          "name": "Raphanus eruca",
+          "author": "(L.) Crantz",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.242Z",
+              "id": "urn:lsid:ipni.org:names:288440-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:288440-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 11861,
+          "name": "Brassica eruca",
+          "author": "L.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.280Z",
+              "id": "urn:lsid:ipni.org:names:324634-2",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324634-2",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 11862,
+          "name": "Eruca sativa",
+          "author": "Mill.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:05.083Z",
+              "id": "urn:lsid:ipni.org:names:1110374-2",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1110374-2",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 79400,
+          "name": "Brassica erucoides",
+          "author": "Roxb.",
+          "sources": [
+            {
+              "last_update": "2019-01-12T11:47:27.731Z",
+              "id": "100361133",
+              "name": "Tropicos",
+              "url": "http://legacy.tropicos.org/Name/100361133",
+              "citation": "Tropicos, botanical information system at the Missouri Botanical Garden - www.tropicos.org"
+            },
+            {
+              "last_update": "2020-06-23T17:08:04.319Z",
+              "id": "urn:lsid:ipni.org:names:927613-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:927613-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            },
+            {
+              "last_update": "2020-06-23T17:08:04.402Z",
+              "id": "urn:lsid:ipni.org:names:279324-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279324-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 623241,
+          "name": "Eruca eruca",
+          "author": "Asch. \u0026 Graebn. (L.)",
+          "sources": [
+            {
+              "last_update": "2020-06-23T13:45:04.694Z",
+              "id": "5375947",
+              "name": "GBIF",
+              "url": "https://www.gbif.org/species/5375947",
+              "citation": null
+            }
+          ]
+        },
+        {
+          "id": 188944,
+          "name": "Eruca vesicaria subvar. oleracea",
+          "author": "(J.St.-Hil.) Emb. \u0026 Maire",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.161Z",
+              "id": "urn:lsid:ipni.org:names:60475704-2",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60475704-2",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188943,
+          "name": "Eruca cappadocica",
+          "author": "Reut.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.141Z",
+              "id": "urn:lsid:ipni.org:names:283382-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283382-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            },
+            {
+              "last_update": "2020-06-23T17:08:04.181Z",
+              "id": "urn:lsid:ipni.org:names:283381-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283381-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188940,
+          "name": "Eruca deserti",
+          "author": "Pomel",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.037Z",
+              "id": "urn:lsid:ipni.org:names:283384-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283384-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188941,
+          "name": "Eruca orthosepala",
+          "author": "(Lange) Lange",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.065Z",
+              "id": "urn:lsid:ipni.org:names:283406-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283406-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188942,
+          "name": "Eruca vesicaria subvar. hispida",
+          "author": "(Ten.) Thell.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.093Z",
+              "id": "urn:lsid:ipni.org:names:60475705-2",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60475705-2",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188945,
+          "name": "Eruca oleracea",
+          "author": "J.St.-Hil.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.201Z",
+              "id": "urn:lsid:ipni.org:names:283405-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283405-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188946,
+          "name": "Eruca longirostris",
+          "author": "Uechtr.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.220Z",
+              "id": "urn:lsid:ipni.org:names:283400-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283400-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188947,
+          "name": "Eruca longistyla",
+          "author": "Pomel",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.261Z",
+              "id": "urn:lsid:ipni.org:names:283401-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283401-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188948,
+          "name": "Brassica vesicaria",
+          "author": "L.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.299Z",
+              "id": "urn:lsid:ipni.org:names:324636-2",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324636-2",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188949,
+          "name": "Velleruca vesicaria",
+          "author": "(L.) Pomel",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.341Z",
+              "id": "urn:lsid:ipni.org:names:291002-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:291002-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188950,
+          "name": "Euzomum hispidum",
+          "author": "Link",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.365Z",
+              "id": "urn:lsid:ipni.org:names:284369-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284369-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188951,
+          "name": "Eruca permixta",
+          "author": "Jord.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.384Z",
+              "id": "urn:lsid:ipni.org:names:283408-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283408-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188952,
+          "name": "Velleruca longistyla",
+          "author": "Pomel",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.421Z",
+              "id": "urn:lsid:ipni.org:names:291000-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:291000-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188953,
+          "name": "Brassica turgida",
+          "author": "Pers.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.442Z",
+              "id": "urn:lsid:ipni.org:names:279556-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279556-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188955,
+          "name": "Raphanus vesicarius",
+          "author": "(L.) Crantz",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.505Z",
+              "id": "urn:lsid:ipni.org:names:288506-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:288506-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188956,
+          "name": "Eruca stenocarpa",
+          "author": "Boiss. \u0026 Reut.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.544Z",
+              "id": "urn:lsid:ipni.org:names:283417-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283417-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188957,
+          "name": "Eruca lanceolata",
+          "author": "Pomel",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.612Z",
+              "id": "urn:lsid:ipni.org:names:283397-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283397-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188958,
+          "name": "Eruca subbipinnata",
+          "author": "Chiov.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.649Z",
+              "id": "urn:lsid:ipni.org:names:283418-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283418-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188959,
+          "name": "Sinapis eruca",
+          "author": "(L.) Vest",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.674Z",
+              "id": "urn:lsid:ipni.org:names:288993-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:288993-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188960,
+          "name": "Eruca lativalvis",
+          "author": "Boiss.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.698Z",
+              "id": "urn:lsid:ipni.org:names:283398-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283398-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188961,
+          "name": "Brassica hispida",
+          "author": "Ten.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.718Z",
+              "id": "urn:lsid:ipni.org:names:279360-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279360-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188962,
+          "name": "Eruca glabrescens",
+          "author": "Jord.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.736Z",
+              "id": "urn:lsid:ipni.org:names:283392-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283392-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188963,
+          "name": "Eruca grandiflora",
+          "author": "Cav.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.755Z",
+              "id": "urn:lsid:ipni.org:names:283393-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283393-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188964,
+          "name": "Sinapis exotica",
+          "author": "DC.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.784Z",
+              "id": "urn:lsid:ipni.org:names:288997-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:288997-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188965,
+          "name": "Eruca ruchetta",
+          "author": "Spach",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.808Z",
+              "id": "urn:lsid:ipni.org:names:283411-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283411-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188966,
+          "name": "Brassica lativalvis",
+          "author": "Boiss.",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.868Z",
+              "id": "urn:lsid:ipni.org:names:279385-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279385-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188967,
+          "name": "Crucifera eruca",
+          "author": "E.H.L.Krause",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.938Z",
+              "id": "urn:lsid:ipni.org:names:281774-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:281774-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188968,
+          "name": "Eruca foetida",
+          "author": "Moench",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.962Z",
+              "id": "urn:lsid:ipni.org:names:283391-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:283391-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188969,
+          "name": "Eruca sativa subsp. lativalvis",
+          "author": "(Boiss.) Greuter \u0026 Burdet",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:04.996Z",
+              "id": "urn:lsid:ipni.org:names:922094-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:922094-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188970,
+          "name": "Euzomum vesicarium",
+          "author": "(L.) Link",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:05.018Z",
+              "id": "urn:lsid:ipni.org:names:284371-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284371-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188971,
+          "name": "Euzomum sativum",
+          "author": "Link",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:05.041Z",
+              "id": "urn:lsid:ipni.org:names:284370-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284370-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        },
+        {
+          "id": 188972,
+          "name": "Brassica uechtritziana",
+          "author": "Janka",
+          "sources": [
+            {
+              "last_update": "2020-06-23T17:08:05.059Z",
+              "id": "urn:lsid:ipni.org:names:279561-1",
+              "name": "POWO",
+              "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279561-1",
+              "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+            }
+          ]
+        }
+      ],
+      "growth": {
+        "description": "Grow in any soil in part shade, from seed. cropping can be within 40 days. Tolerates sun, but likes some shade from summer sun. Fairly drought resistant",
+        "sowing": "",
+        "days_to_harvest": 40,
+        "row_spacing": {
+          "cm": 10
+        },
+        "spread": {
+          "cm": 10
+        },
+        "ph_maximum": 7.5,
+        "ph_minimum": 7.0,
+        "light": 9,
+        "atmospheric_humidity": 4,
+        "growth_months": null,
+        "bloom_months": [
+          "feb",
+          "mar",
+          "apr",
+          "may",
+          "jun"
+        ],
+        "fruit_months": null,
+        "minimum_precipitation": {
+          "mm": null
+        },
+        "maximum_precipitation": {
+          "mm": null
+        },
+        "minimum_root_depth": {
+          "cm": null
+        },
+        "minimum_temperature": {
+          "deg_f": 10,
+          "deg_c": -12
+        },
+        "maximum_temperature": {
+          "deg_f": 86,
+          "deg_c": 30
+        },
+        "soil_nutriments": 6,
+        "soil_salinity": 1,
+        "soil_texture": 3,
+        "soil_humidity": 2
+      },
+      "links": {
+        "self": "/api/v1/species/eruca-vesicaria",
+        "plant": "/api/v1/plants/eruca-vesicaria",
+        "genus": "/api/v1/genus/eruca"
+      }
+    },
+    "genus": {
+      "id": 2862,
+      "name": "Eruca",
+      "slug": "eruca",
+      "links": {
+        "self": "/api/v1/genus/eruca",
+        "plants": "/api/v1/genus/eruca/plants",
+        "species": "/api/v1/genus/eruca/species",
+        "family": "/api/v1/families/brassicaceae"
+      }
+    },
+    "family": {
+      "id": 79,
+      "name": "Brassicaceae",
+      "common_name": "Mustard family",
+      "slug": "brassicaceae",
+      "links": {
+        "self": "/api/v1/families/brassicaceae",
+        "division_order": "/api/v1/division_orders/capparales",
+        "genus": "/api/v1/families/brassicaceae/genus"
+      }
+    },
+    "species": [
+      {
+        "id": 134934,
+        "common_name": "Rocketsalad",
+        "slug": "eruca-vesicaria",
+        "scientific_name": "Eruca vesicaria",
+        "year": 1802,
+        "bibliography": "G. Hegi, Ill. Fl. Mitt._Eur. 4(1):201.  1918",
+        "author": "Thell. (Mill.)",
+        "status": "accepted",
+        "rank": "species",
+        "family_common_name": "Mustard family",
+        "genus_id": 2862,
+        "image_url": "https://bs.plantnet.org/image/o/f04b841babe6eea64cce60d777296f03298240fb",
+        "synonyms": [
+          "Raphanus eruca",
+          "Brassica eruca",
+          "Eruca sativa",
+          "Brassica erucoides",
+          "Eruca eruca",
+          "Eruca vesicaria subvar. oleracea",
+          "Eruca cappadocica",
+          "Eruca deserti",
+          "Eruca orthosepala",
+          "Eruca vesicaria subvar. hispida",
+          "Eruca oleracea",
+          "Eruca longirostris",
+          "Eruca longistyla",
+          "Brassica vesicaria",
+          "Velleruca vesicaria",
+          "Euzomum hispidum",
+          "Eruca permixta",
+          "Velleruca longistyla",
+          "Brassica turgida",
+          "Raphanus vesicarius",
+          "Eruca stenocarpa",
+          "Eruca lanceolata",
+          "Eruca subbipinnata",
+          "Sinapis eruca",
+          "Eruca lativalvis",
+          "Brassica hispida",
+          "Eruca glabrescens",
+          "Eruca grandiflora",
+          "Sinapis exotica",
+          "Eruca ruchetta",
+          "Brassica lativalvis",
+          "Crucifera eruca",
+          "Eruca foetida",
+          "Eruca sativa subsp. lativalvis",
+          "Euzomum vesicarium",
+          "Euzomum sativum",
+          "Brassica uechtritziana"
+        ],
+        "genus": "Eruca",
+        "family": "Brassicaceae",
+        "links": {
+          "self": "/api/v1/species/eruca-vesicaria",
+          "plant": "/api/v1/plants/eruca-vesicaria",
+          "genus": "/api/v1/genus/eruca"
+        }
+      }
+    ],
+    "subspecies": [],
+    "varieties": [],
+    "hybrids": [],
+    "forms": [],
+    "subvarieties": [],
+    "sources": [
+      {
+        "last_update": "2020-06-21T20:22:58.551Z",
+        "id": "ERVE5",
+        "name": "USDA",
+        "url": "https://plants.usda.gov/core/profile?symbol=ERVE5",
+        "citation": "https://plants.sc.egov.usda.gov/core/profile?symbol=ERVE5"
+      },
+      {
+        "last_update": "2020-06-23T17:08:04.003Z",
+        "id": "urn:lsid:ipni.org:names:1137625-2",
+        "name": "POWO",
+        "url": "http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1137625-2",
+        "citation": "POWO (2019). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://www.plantsoftheworldonline.org/ Retrieved 2020-06-23"
+      },
+      {
+        "last_update": "2020-07-04T18:47:52.983Z",
+        "id": "13/3.0.2.0.3",
+        "name": "CATMINAT",
+        "url": null,
+        "citation": null
+      },
+      {
+        "last_update": "2020-06-16T22:38:19.229Z",
+        "id": "Eruca vesicaria (L.) Cav.",
+        "name": "PlantNet",
+        "url": "https://identify.plantnet.org/species/the-plant-list/Eruca vesicaria (L.) Cav.",
+        "citation": null
+      },
+      {
+        "last_update": "2020-06-16T22:38:19.242Z",
+        "id": "5375920",
+        "name": "GBIF",
+        "url": "https://www.gbif.org/species/5375920",
+        "citation": null
+      },
+      {
+        "last_update": "2020-08-07T05:22:25.030Z",
+        "id": "5375925",
+        "name": "GBIF",
+        "url": "https://www.gbif.org/species/5375925",
+        "citation": null
+      },
+      {
+        "last_update": "2020-08-15T10:35:55.929Z",
+        "id": "Eruca vesicaria",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eruca vesicaria",
+        "citation": null
+      }
+    ]
+  },
+  "meta": {
+    "last_modified": "2021-03-04T17:46:31.976Z"
+  }
+}
