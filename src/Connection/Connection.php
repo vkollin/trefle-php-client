@@ -20,24 +20,32 @@ class Connection
         $this->client  = $client;
     }
 
-    public function get(string $path): ApiResponse
+    public function get(string $path, array $query = null): ApiResponse
     {
         $realPath = sprintf('/api/%s/%s', $this->options->getUrlVersion(), $path);
+        $options  = [];
 
-        $response = $this->client->get($realPath, $this->addToken());
+        if ($query) {
+            $options [RequestOptions::QUERY] = $query;
+        }
+
+        $response = $this->client->get($realPath, $this->addToken($options));
 
         $this->throwSpecificErrorIfStatusCodeIsNotOkay($response);
 
         return ApiResponseFactory::createFromResponse($response);
     }
 
-    private function addToken(): array
+    private function addToken($options): array
     {
-        return [
-            RequestOptions::QUERY => [
-                'token' => $this->options->getToken(),
+        return array_merge_recursive(
+            $options,
+            [
+                RequestOptions::QUERY => [
+                    'token' => $this->options->getToken(),
+                ]
             ]
-        ];
+        );
     }
 
     /**

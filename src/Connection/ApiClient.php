@@ -20,6 +20,7 @@ use Trefle\Connection\Response\PlantsResponse;
 use Trefle\Connection\Response\SpeciesResponse;
 use Trefle\Connection\Response\SubKingdomResponse;
 use Trefle\Connection\Response\SubKingdomsResponse;
+use Trefle\Enumeration\SearchType;
 use Trefle\Factory\ResponseFactory;
 
 class ApiClient
@@ -200,5 +201,20 @@ class ApiClient
         $response = $this->connection->get(sprintf('species/%s', $idOrSlug));
 
         return ResponseFactory::createOneSpeciesResponse($response);
+    }
+
+    public function searchPlants(): SearchRequest
+    {
+        return $this->search(SearchType::SPECIES());
+    }
+
+    protected function search(SearchType $searchType): SearchRequest
+    {
+        return new SearchRequest($searchType, $this->connection);
+    }
+
+    public function searchSpecies(): SearchRequest
+    {
+        return $this->search(SearchType::SPECIES());
     }
 }

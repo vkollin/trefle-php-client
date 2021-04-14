@@ -25,11 +25,13 @@
 
 - [x] /plants _(simple list w/o filters)_
 - [x] /plants/{id}
-- [ ] /plants/search
+- [x] /plants/search
+
 
 - [x] /species _(simple list w/o filters)_
 - [x] /species/{id}
-- [ ] /species/search
+- [x] /species/search
 
 - [ ] /distributions
 - [ ] /distributions/{id}
+- [ ] /distributions/{id}/plants

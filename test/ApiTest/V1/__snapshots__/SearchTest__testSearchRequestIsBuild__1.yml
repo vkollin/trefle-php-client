@@ -1,0 +1,9 @@
+filter:
+    edible: true
+    common_name: 'common name!'
+filter_not:
+    author: me
+range:
+    light: '3,5'
+order:
+    ph_minimum: desc
