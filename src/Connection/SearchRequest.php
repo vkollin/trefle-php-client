@@ -10,6 +10,8 @@ use Trefle\Enumeration\Order;
 use Trefle\Enumeration\OrderField;
 use Trefle\Enumeration\RangeField;
 use Trefle\Enumeration\SearchType;
+use Trefle\Exception\InvalidEnumException;
+use Trefle\Factory\ResponseFactory;
 use Trefle\Search\Filter;
 use Trefle\Search\OrderBy;
 use Trefle\Search\Range;
@@ -118,19 +120,16 @@ class SearchRequest
      */
     public function fetch(): Response
     {
-        $url           = null;
-        $responseClass = null;
+        $url = null;
 
         $hasQuery = $this->query !== null;
 
         switch ($this->searchType->getValue()) {
             case SearchType::PLANTS:
-                $url           = 'plants';
-                $responseClass = PlantsResponse::class;
+                $url = 'plants';
                 break;
             case SearchType::SPECIES:
-                $url           = 'species';
-                $responseClass = SpeciesResponse::class;
+                $url = 'species';
                 break;
         }
 
@@ -140,11 +139,15 @@ class SearchRequest
 
         $response = $this->connection->get($url, $this->getAsQuery());
 
-        /** @var $responseClass PlantsResponse|SpeciesResponse */
-        return new $responseClass(
-            $response->getLinks(),
-            $response->getMeta(),
-            $response->getData()
+        switch ($this->searchType->getValue()) {
+            case SearchType::PLANTS:
+                return ResponseFactory::createPlantsResponse($response);
+            case SearchType::SPECIES:
+                return ResponseFactory::createSpeciesResponse($response);
+        }
+
+        throw new InvalidEnumException(
+            sprintf('%s is not a valid value for searchType', $this->searchType->getValue())
         );
     }
 
