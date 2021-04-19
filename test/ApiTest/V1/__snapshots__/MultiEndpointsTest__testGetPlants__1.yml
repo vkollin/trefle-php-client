@@ -13,7 +13,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/quercus-rotundifolia, plant: /api/v1/plants/quercus-rotundifolia, genus: /api/v1/genus/quercus }
+    links: { mainSpecies: /api/v1/species/quercus-rotundifolia, self: /api/v1/plants/quercus-rotundifolia, parent: /api/v1/genus/quercus, childs: null, grandChilds: null }
 -
     id: 190500
     commonName: 'Stinging nettle'
@@ -29,7 +29,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/urtica-dioica, plant: /api/v1/plants/urtica-dioica, genus: /api/v1/genus/urtica }
+    links: { mainSpecies: /api/v1/species/urtica-dioica, self: /api/v1/plants/urtica-dioica, parent: /api/v1/genus/urtica, childs: null, grandChilds: null }
 -
     id: 126957
     commonName: Orchardgrass
@@ -45,7 +45,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/dactylis-glomerata, plant: /api/v1/plants/dactylis-glomerata, genus: /api/v1/genus/dactylis }
+    links: { mainSpecies: /api/v1/species/dactylis-glomerata, self: /api/v1/plants/dactylis-glomerata, parent: /api/v1/genus/dactylis, childs: null, grandChilds: null }
 -
     id: 167888
     commonName: 'Narrowleaf plantain'
@@ -61,7 +61,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/plantago-lanceolata, plant: /api/v1/plants/plantago-lanceolata, genus: /api/v1/genus/plantago }
+    links: { mainSpecies: /api/v1/species/plantago-lanceolata, self: /api/v1/plants/plantago-lanceolata, parent: /api/v1/genus/plantago, childs: null, grandChilds: null }
 -
     id: 173327
     commonName: 'English oak'
@@ -77,7 +77,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/quercus-robur, plant: /api/v1/plants/quercus-robur, genus: /api/v1/genus/quercus }
+    links: { mainSpecies: /api/v1/species/quercus-robur, self: /api/v1/plants/quercus-robur, parent: /api/v1/genus/quercus, childs: null, grandChilds: null }
 -
     id: 137025
     commonName: 'Red fescue'
@@ -93,7 +93,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/festuca-rubra, plant: /api/v1/plants/festuca-rubra, genus: /api/v1/genus/festuca }
+    links: { mainSpecies: /api/v1/species/festuca-rubra, self: /api/v1/plants/festuca-rubra, parent: /api/v1/genus/festuca, childs: null, grandChilds: null }
 -
     id: 173910
     commonName: 'Creeping buttercup'
@@ -109,7 +109,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/ranunculus-repens, plant: /api/v1/plants/ranunculus-repens, genus: /api/v1/genus/ranunculus }
+    links: { mainSpecies: /api/v1/species/ranunculus-repens, self: /api/v1/plants/ranunculus-repens, parent: /api/v1/genus/ranunculus, childs: null, grandChilds: null }
 -
     id: 143075
     commonName: 'Common velvetgrass'
@@ -125,7 +125,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/holcus-lanatus, plant: /api/v1/plants/holcus-lanatus, genus: /api/v1/genus/holcus }
+    links: { mainSpecies: /api/v1/species/holcus-lanatus, self: /api/v1/plants/holcus-lanatus, parent: /api/v1/genus/holcus, childs: null, grandChilds: null }
 -
     id: 189539
     commonName: 'White clover'
@@ -141,7 +141,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/trifolium-repens, plant: /api/v1/plants/trifolium-repens, genus: /api/v1/genus/trifolium }
+    links: { mainSpecies: /api/v1/species/trifolium-repens, self: /api/v1/plants/trifolium-repens, parent: /api/v1/genus/trifolium, childs: null, grandChilds: null }
 -
     id: 137834
     commonName: 'European ash'
@@ -157,7 +157,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/fraxinus-excelsior, plant: /api/v1/plants/fraxinus-excelsior, genus: /api/v1/genus/fraxinus }
+    links: { mainSpecies: /api/v1/species/fraxinus-excelsior, self: /api/v1/plants/fraxinus-excelsior, parent: /api/v1/genus/fraxinus, childs: null, grandChilds: null }
 -
     id: 124198
     commonName: 'Oneseed hawthorn'
@@ -173,7 +173,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/crataegus-monogyna, plant: /api/v1/plants/crataegus-monogyna, genus: /api/v1/genus/crataegus }
+    links: { mainSpecies: /api/v1/species/crataegus-monogyna, self: /api/v1/plants/crataegus-monogyna, parent: /api/v1/genus/crataegus, childs: null, grandChilds: null }
 -
     id: 189529
     commonName: 'Red clover'
@@ -189,7 +189,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/trifolium-pratense, plant: /api/v1/plants/trifolium-pratense, genus: /api/v1/genus/trifolium }
+    links: { mainSpecies: /api/v1/species/trifolium-pratense, self: /api/v1/plants/trifolium-pratense, parent: /api/v1/genus/trifolium, childs: null, grandChilds: null }
 -
     id: 173587
     commonName: 'Tall buttercup'
@@ -205,7 +205,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/ranunculus-acris, plant: /api/v1/plants/ranunculus-acris, genus: /api/v1/genus/ranunculus }
+    links: { mainSpecies: /api/v1/species/ranunculus-acris, self: /api/v1/plants/ranunculus-acris, parent: /api/v1/genus/ranunculus, childs: null, grandChilds: null }
 -
     id: 123486
     commonName: 'Common filbert'
@@ -221,7 +221,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/corylus-avellana, plant: /api/v1/plants/corylus-avellana, genus: /api/v1/genus/corylus }
+    links: { mainSpecies: /api/v1/species/corylus-avellana, self: /api/v1/plants/corylus-avellana, parent: /api/v1/genus/corylus, childs: null, grandChilds: null }
 -
     id: 136773
     commonName: 'European beech'
@@ -237,7 +237,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/fagus-sylvatica, plant: /api/v1/plants/fagus-sylvatica, genus: /api/v1/genus/fagus }
+    links: { mainSpecies: /api/v1/species/fagus-sylvatica, self: /api/v1/plants/fagus-sylvatica, parent: /api/v1/genus/fagus, childs: null, grandChilds: null }
 -
     id: 146208
     commonName: 'Common rush'
@@ -253,7 +253,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/juncus-effusus, plant: /api/v1/plants/juncus-effusus, genus: /api/v1/genus/juncus }
+    links: { mainSpecies: /api/v1/species/juncus-effusus, self: /api/v1/plants/juncus-effusus, parent: /api/v1/genus/juncus, childs: null, grandChilds: null }
 -
     id: 176845
     commonName: 'Garden sorrel'
@@ -269,7 +269,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/rumex-acetosa, plant: /api/v1/plants/rumex-acetosa, genus: /api/v1/genus/rumex }
+    links: { mainSpecies: /api/v1/species/rumex-acetosa, self: /api/v1/plants/rumex-acetosa, parent: /api/v1/genus/rumex, childs: null, grandChilds: null }
 -
     id: 105790
     commonName: 'Sweet vernalgrass'
@@ -285,7 +285,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/anthoxanthum-odoratum, plant: /api/v1/plants/anthoxanthum-odoratum, genus: /api/v1/genus/anthoxanthum }
+    links: { mainSpecies: /api/v1/species/anthoxanthum-odoratum, self: /api/v1/plants/anthoxanthum-odoratum, parent: /api/v1/genus/anthoxanthum, childs: null, grandChilds: null }
 -
     id: 137183
     commonName: 'Queen of the meadow'
@@ -301,7 +301,7 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/filipendula-ulmaria, plant: /api/v1/plants/filipendula-ulmaria, genus: /api/v1/genus/filipendula }
+    links: { mainSpecies: /api/v1/species/filipendula-ulmaria, self: /api/v1/plants/filipendula-ulmaria, parent: /api/v1/genus/filipendula, childs: null, grandChilds: null }
 -
     id: 101851
     commonName: 'Sycamore maple'
@@ -317,4 +317,4 @@
     observations: null
     mainSpecies: null
     sources: null
-    links: { self: /api/v1/species/acer-pseudoplatanus, plant: /api/v1/plants/acer-pseudoplatanus, genus: /api/v1/genus/acer }
+    links: { mainSpecies: /api/v1/species/acer-pseudoplatanus, self: /api/v1/plants/acer-pseudoplatanus, parent: /api/v1/genus/acer, childs: null, grandChilds: null }

@@ -6,6 +6,7 @@ use Trefle\Enumeration\Duration;
 use Trefle\Enumeration\EdiblePart;
 use Trefle\Enumeration\Rank;
 use Trefle\Enumeration\Status;
+use Trefle\Model\Links\Links;
 use Trefle\Model\Species\Distributions;
 use Trefle\Model\Species\Flower;
 use Trefle\Model\Species\Foliage;
@@ -51,6 +52,7 @@ class Species
     private ?array $synonyms;
     /** @var Source[]|null */
     private ?array $sources;
+    private ?Links $links;
 
     public function __construct(
         int $id,
@@ -81,7 +83,8 @@ class Species
         ?Specifications $specifications,
         ?Growth $growth,
         ?array $synonyms,
-        ?array $sources
+        ?array $sources,
+        ?Links $links
     ) {
         $this->id               = $id;
         $this->commonName       = $commonName;
@@ -112,6 +115,7 @@ class Species
         $this->growth           = $growth;
         $this->synonyms         = $synonyms;
         $this->sources          = $sources;
+        $this->links            = $links;
     }
 
     /**
@@ -344,5 +348,10 @@ class Species
     public function getSources(): ?array
     {
         return $this->sources;
+    }
+
+    public function getLinks(): ?Links
+    {
+        return $this->links;
     }
 }

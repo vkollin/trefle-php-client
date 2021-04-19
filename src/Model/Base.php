@@ -2,14 +2,16 @@
 
 namespace Trefle\Model;
 
+use Trefle\Model\Links\Links;
+
 abstract class Base
 {
     private int $id;
     private string $name;
     private string $slug;
-    private array $links;
+    private Links $links;
 
-    public function __construct(int $id, string $name, string $slug, array $links)
+    public function __construct(int $id, string $name, string $slug, Links $links)
     {
         $this->id    = $id;
         $this->name  = $name;
@@ -32,7 +34,7 @@ abstract class Base
         return $this->slug;
     }
 
-    public function getLinks(): array
+    public function getLinks(): Links
     {
         return $this->links;
     }

@@ -154,3 +154,8 @@ sources:
     - { id: '5375920', name: GBIF, url: 'https://www.gbif.org/species/5375920', citation: null, lastUpdate: '2020-06-16T22:38:19+00:00' }
     - { id: '5375925', name: GBIF, url: 'https://www.gbif.org/species/5375925', citation: null, lastUpdate: '2020-08-07T05:22:25+00:00' }
     - { id: 'Eruca vesicaria', name: Wikipedia, url: 'https://en.wikipedia.org/wiki/Eruca vesicaria', citation: null, lastUpdate: '2020-08-15T10:35:55+00:00' }
+links:
+    self: /api/v1/species/eruca-vesicaria
+    parent: /api/v1/plants/eruca-vesicaria
+    childs: /api/v1/genus/eruca
+    grandChilds: null

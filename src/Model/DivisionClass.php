@@ -2,11 +2,13 @@
 
 namespace Trefle\Model;
 
+use Trefle\Model\Links\Links;
+
 class DivisionClass extends Base
 {
     private ?Division $division;
 
-    public function __construct(int $id, string $name, string $slug, array $links, ?Division $division)
+    public function __construct(int $id, string $name, string $slug, Links $links, ?Division $division)
     {
         parent::__construct($id, $name, $slug, $links);
         $this->division = $division;

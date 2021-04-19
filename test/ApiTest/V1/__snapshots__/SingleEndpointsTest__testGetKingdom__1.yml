@@ -2,3 +2,6 @@ id: 1
 name: Plantae
 links:
     self: /api/v1/kingdoms/1
+    parent: null
+    childs: null
+    grandChilds: null

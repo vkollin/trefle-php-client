@@ -1,120 +1,120 @@
 -
-    family: { divisionOrder: null, id: 32, name: Orchidaceae, slug: orchidaceae, links: { self: /api/v1/families/orchidaceae, division_order: /api/v1/division_orders/orchidales, genus: /api/v1/families/orchidaceae/genus } }
+    family: { divisionOrder: null, id: 32, name: Orchidaceae, slug: orchidaceae, links: { self: /api/v1/families/orchidaceae, parent: /api/v1/division_orders/orchidales, childs: /api/v1/families/orchidaceae/genus, grandChilds: null } }
     id: 14887
     name: Aa
     slug: aa
-    links: { self: /api/v1/genus/aa, plants: /api/v1/genus/aa/plants, species: /api/v1/genus/aa/species, family: /api/v1/families/orchidaceae }
+    links: { self: /api/v1/genus/aa, parent: /api/v1/families/orchidaceae, childs: /api/v1/genus/aa/plants, grandChilds: /api/v1/genus/aa/species }
 -
-    family: { divisionOrder: null, id: 21, name: Poaceae, slug: poaceae, links: { self: /api/v1/families/poaceae, division_order: /api/v1/division_orders/cyperales, genus: /api/v1/families/poaceae/genus } }
+    family: { divisionOrder: null, id: 21, name: Poaceae, slug: poaceae, links: { self: /api/v1/families/poaceae, parent: /api/v1/division_orders/cyperales, childs: /api/v1/families/poaceae/genus, grandChilds: null } }
     id: 15849
     name: Aakia
     slug: aakia
-    links: { self: /api/v1/genus/aakia, plants: /api/v1/genus/aakia/plants, species: /api/v1/genus/aakia/species, family: /api/v1/families/poaceae }
+    links: { self: /api/v1/genus/aakia, parent: /api/v1/families/poaceae, childs: /api/v1/genus/aakia/plants, grandChilds: /api/v1/genus/aakia/species }
 -
-    family: { divisionOrder: null, id: 594, name: Phyllanthaceae, slug: phyllanthaceae, links: { self: /api/v1/families/phyllanthaceae, division_order: null, genus: /api/v1/families/phyllanthaceae/genus } }
+    family: { divisionOrder: null, id: 594, name: Phyllanthaceae, slug: phyllanthaceae, links: { self: /api/v1/families/phyllanthaceae, parent: null, childs: /api/v1/families/phyllanthaceae/genus, grandChilds: null } }
     id: 35812
     name: Aalius
     slug: aalius
-    links: { self: /api/v1/genus/aalius, plants: /api/v1/genus/aalius/plants, species: /api/v1/genus/aalius/species, family: /api/v1/families/phyllanthaceae }
+    links: { self: /api/v1/genus/aalius, parent: /api/v1/families/phyllanthaceae, childs: /api/v1/genus/aalius/plants, grandChilds: /api/v1/genus/aalius/species }
 -
-    family: { divisionOrder: null, id: 594, name: Phyllanthaceae, slug: phyllanthaceae, links: { self: /api/v1/families/phyllanthaceae, division_order: null, genus: /api/v1/families/phyllanthaceae/genus } }
+    family: { divisionOrder: null, id: 594, name: Phyllanthaceae, slug: phyllanthaceae, links: { self: /api/v1/families/phyllanthaceae, parent: null, childs: /api/v1/families/phyllanthaceae/genus, grandChilds: null } }
     id: 35813
     name: Aapaca
     slug: aapaca
-    links: { self: /api/v1/genus/aapaca, plants: /api/v1/genus/aapaca/plants, species: /api/v1/genus/aapaca/species, family: /api/v1/families/phyllanthaceae }
+    links: { self: /api/v1/genus/aapaca, parent: /api/v1/families/phyllanthaceae, childs: /api/v1/genus/aapaca/plants, grandChilds: /api/v1/genus/aapaca/species }
 -
-    family: { divisionOrder: null, id: 13, name: Asteraceae, slug: asteraceae, links: { self: /api/v1/families/asteraceae, division_order: /api/v1/division_orders/asterales, genus: /api/v1/families/asteraceae/genus } }
+    family: { divisionOrder: null, id: 13, name: Asteraceae, slug: asteraceae, links: { self: /api/v1/families/asteraceae, parent: /api/v1/division_orders/asterales, childs: /api/v1/families/asteraceae/genus, grandChilds: null } }
     id: 9645
     name: Aaronsohnia
     slug: aaronsohnia
-    links: { self: /api/v1/genus/aaronsohnia, plants: /api/v1/genus/aaronsohnia/plants, species: /api/v1/genus/aaronsohnia/species, family: /api/v1/families/asteraceae }
+    links: { self: /api/v1/genus/aaronsohnia, parent: /api/v1/families/asteraceae, childs: /api/v1/genus/aaronsohnia/plants, grandChilds: /api/v1/genus/aaronsohnia/species }
 -
-    family: { divisionOrder: null, id: 153, name: Aspleniaceae, slug: aspleniaceae, links: { self: /api/v1/families/aspleniaceae, division_order: /api/v1/division_orders/polypodiales, genus: /api/v1/families/aspleniaceae/genus } }
+    family: { divisionOrder: null, id: 153, name: Aspleniaceae, slug: aspleniaceae, links: { self: /api/v1/families/aspleniaceae, parent: /api/v1/division_orders/polypodiales, childs: /api/v1/families/aspleniaceae/genus, grandChilds: null } }
     id: 20735
     name: Abacopteris
     slug: abacopteris
-    links: { self: /api/v1/genus/abacopteris, plants: /api/v1/genus/abacopteris/plants, species: /api/v1/genus/abacopteris/species, family: /api/v1/families/aspleniaceae }
+    links: { self: /api/v1/genus/abacopteris, parent: /api/v1/families/aspleniaceae, childs: /api/v1/genus/abacopteris/plants, grandChilds: /api/v1/genus/abacopteris/species }
 -
-    family: { divisionOrder: null, id: 9, name: Fabaceae, slug: fabaceae, links: { self: /api/v1/families/fabaceae, division_order: /api/v1/division_orders/fabales, genus: /api/v1/families/fabaceae/genus } }
+    family: { divisionOrder: null, id: 9, name: Fabaceae, slug: fabaceae, links: { self: /api/v1/families/fabaceae, parent: /api/v1/division_orders/fabales, childs: /api/v1/families/fabaceae/genus, grandChilds: null } }
     id: 27248
     name: Abacosa
     slug: abacosa
-    links: { self: /api/v1/genus/abacosa, plants: /api/v1/genus/abacosa/plants, species: /api/v1/genus/abacosa/species, family: /api/v1/families/fabaceae }
+    links: { self: /api/v1/genus/abacosa, parent: /api/v1/families/fabaceae, childs: /api/v1/genus/abacosa/plants, grandChilds: /api/v1/genus/abacosa/species }
 -
-    family: { divisionOrder: null, id: 619, name: Melanthiaceae, slug: melanthiaceae, links: { self: /api/v1/families/melanthiaceae, division_order: null, genus: /api/v1/families/melanthiaceae/genus } }
+    family: { divisionOrder: null, id: 619, name: Melanthiaceae, slug: melanthiaceae, links: { self: /api/v1/families/melanthiaceae, parent: null, childs: /api/v1/families/melanthiaceae/genus, grandChilds: null } }
     id: 30677
     name: Abalon
     slug: abalon
-    links: { self: /api/v1/genus/abalon, plants: /api/v1/genus/abalon/plants, species: /api/v1/genus/abalon/species, family: /api/v1/families/melanthiaceae }
+    links: { self: /api/v1/genus/abalon, parent: /api/v1/families/melanthiaceae, childs: /api/v1/genus/abalon/plants, grandChilds: /api/v1/genus/abalon/species }
 -
-    family: { divisionOrder: null, id: 633, name: Nartheciaceae, slug: nartheciaceae, links: { self: /api/v1/families/nartheciaceae, division_order: null, genus: /api/v1/families/nartheciaceae/genus } }
+    family: { divisionOrder: null, id: 633, name: Nartheciaceae, slug: nartheciaceae, links: { self: /api/v1/families/nartheciaceae, parent: null, childs: /api/v1/families/nartheciaceae/genus, grandChilds: null } }
     id: 4797
     name: Abama
     slug: abama
-    links: { self: /api/v1/genus/abama, plants: /api/v1/genus/abama/plants, species: /api/v1/genus/abama/species, family: /api/v1/families/nartheciaceae }
+    links: { self: /api/v1/genus/abama, parent: /api/v1/families/nartheciaceae, childs: /api/v1/genus/abama/plants, grandChilds: /api/v1/genus/abama/species }
 -
-    family: { divisionOrder: null, id: 620, name: Colchicaceae, slug: colchicaceae, links: { self: /api/v1/families/colchicaceae, division_order: null, genus: /api/v1/families/colchicaceae/genus } }
+    family: { divisionOrder: null, id: 620, name: Colchicaceae, slug: colchicaceae, links: { self: /api/v1/families/colchicaceae, parent: null, childs: /api/v1/families/colchicaceae/genus, grandChilds: null } }
     id: 25291
     name: Abandium
     slug: abandium
-    links: { self: /api/v1/genus/abandium, plants: /api/v1/genus/abandium/plants, species: /api/v1/genus/abandium/species, family: /api/v1/families/colchicaceae }
+    links: { self: /api/v1/genus/abandium, parent: /api/v1/families/colchicaceae, childs: /api/v1/genus/abandium/plants, grandChilds: /api/v1/genus/abandium/species }
 -
-    family: { divisionOrder: null, id: 581, name: Amaryllidaceae, slug: amaryllidaceae, links: { self: /api/v1/families/amaryllidaceae, division_order: null, genus: /api/v1/families/amaryllidaceae/genus } }
+    family: { divisionOrder: null, id: 581, name: Amaryllidaceae, slug: amaryllidaceae, links: { self: /api/v1/families/amaryllidaceae, parent: null, childs: /api/v1/families/amaryllidaceae/genus, grandChilds: null } }
     id: 18651
     name: Abapus
     slug: abapus
-    links: { self: /api/v1/genus/abapus, plants: /api/v1/genus/abapus/plants, species: /api/v1/genus/abapus/species, family: /api/v1/families/amaryllidaceae }
+    links: { self: /api/v1/genus/abapus, parent: /api/v1/families/amaryllidaceae, childs: /api/v1/genus/abapus/plants, grandChilds: /api/v1/genus/abapus/species }
 -
-    family: { divisionOrder: null, id: 9, name: Fabaceae, slug: fabaceae, links: { self: /api/v1/families/fabaceae, division_order: /api/v1/division_orders/fabales, genus: /api/v1/families/fabaceae/genus } }
+    family: { divisionOrder: null, id: 9, name: Fabaceae, slug: fabaceae, links: { self: /api/v1/families/fabaceae, parent: /api/v1/division_orders/fabales, childs: /api/v1/families/fabaceae/genus, grandChilds: null } }
     id: 12825
     name: Abarema
     slug: abarema
-    links: { self: /api/v1/genus/abarema, plants: /api/v1/genus/abarema/plants, species: /api/v1/genus/abarema/species, family: /api/v1/families/fabaceae }
+    links: { self: /api/v1/genus/abarema, parent: /api/v1/families/fabaceae, childs: /api/v1/genus/abarema/plants, grandChilds: /api/v1/genus/abarema/species }
 -
-    family: { divisionOrder: null, id: 79, name: Brassicaceae, slug: brassicaceae, links: { self: /api/v1/families/brassicaceae, division_order: /api/v1/division_orders/capparales, genus: /api/v1/families/brassicaceae/genus } }
+    family: { divisionOrder: null, id: 79, name: Brassicaceae, slug: brassicaceae, links: { self: /api/v1/families/brassicaceae, parent: /api/v1/division_orders/capparales, childs: /api/v1/families/brassicaceae/genus, grandChilds: null } }
     id: 23409
     name: Abasicarpon
     slug: abasicarpon
-    links: { self: /api/v1/genus/abasicarpon, plants: /api/v1/genus/abasicarpon/plants, species: /api/v1/genus/abasicarpon/species, family: /api/v1/families/brassicaceae }
+    links: { self: /api/v1/genus/abasicarpon, parent: /api/v1/families/brassicaceae, childs: /api/v1/genus/abasicarpon/plants, grandChilds: /api/v1/genus/abasicarpon/species }
 -
-    family: { divisionOrder: null, id: 13, name: Asteraceae, slug: asteraceae, links: { self: /api/v1/families/asteraceae, division_order: /api/v1/division_orders/asterales, genus: /api/v1/families/asteraceae/genus } }
+    family: { divisionOrder: null, id: 13, name: Asteraceae, slug: asteraceae, links: { self: /api/v1/families/asteraceae, parent: /api/v1/division_orders/asterales, childs: /api/v1/families/asteraceae/genus, grandChilds: null } }
     id: 20880
     name: Abasoloa
     slug: abasoloa
-    links: { self: /api/v1/genus/abasoloa, plants: /api/v1/genus/abasoloa/plants, species: /api/v1/genus/abasoloa/species, family: /api/v1/families/asteraceae }
+    links: { self: /api/v1/genus/abasoloa, parent: /api/v1/families/asteraceae, childs: /api/v1/genus/abasoloa/plants, grandChilds: /api/v1/genus/abasoloa/species }
 -
-    family: { divisionOrder: null, id: 484, name: Salicaceae, slug: salicaceae, links: { self: /api/v1/families/salicaceae, division_order: /api/v1/division_orders/salicales, genus: /api/v1/families/salicaceae/genus } }
+    family: { divisionOrder: null, id: 484, name: Salicaceae, slug: salicaceae, links: { self: /api/v1/families/salicaceae, parent: /api/v1/division_orders/salicales, childs: /api/v1/families/salicaceae/genus, grandChilds: null } }
     id: 17326
     name: Abatia
     slug: abatia
-    links: { self: /api/v1/genus/abatia, plants: /api/v1/genus/abatia/plants, species: /api/v1/genus/abatia/species, family: /api/v1/families/salicaceae }
+    links: { self: /api/v1/genus/abatia, parent: /api/v1/families/salicaceae, childs: /api/v1/genus/abatia/plants, grandChilds: /api/v1/genus/abatia/species }
 -
-    family: { divisionOrder: null, id: 9, name: Fabaceae, slug: fabaceae, links: { self: /api/v1/families/fabaceae, division_order: /api/v1/division_orders/fabales, genus: /api/v1/families/fabaceae/genus } }
+    family: { divisionOrder: null, id: 9, name: Fabaceae, slug: fabaceae, links: { self: /api/v1/families/fabaceae, parent: /api/v1/division_orders/fabales, childs: /api/v1/families/fabaceae/genus, grandChilds: null } }
     id: 27249
     name: Abauria
     slug: abauria
-    links: { self: /api/v1/genus/abauria, plants: /api/v1/genus/abauria/plants, species: /api/v1/genus/abauria/species, family: /api/v1/families/fabaceae }
+    links: { self: /api/v1/genus/abauria, parent: /api/v1/families/fabaceae, childs: /api/v1/genus/abauria/plants, grandChilds: /api/v1/genus/abauria/species }
 -
-    family: { divisionOrder: null, id: 32, name: Orchidaceae, slug: orchidaceae, links: { self: /api/v1/families/orchidaceae, division_order: /api/v1/division_orders/orchidales, genus: /api/v1/families/orchidaceae/genus } }
+    family: { divisionOrder: null, id: 32, name: Orchidaceae, slug: orchidaceae, links: { self: /api/v1/families/orchidaceae, parent: /api/v1/division_orders/orchidales, childs: /api/v1/families/orchidaceae/genus, grandChilds: null } }
     id: 31908
     name: Abaxianthus
     slug: abaxianthus
-    links: { self: /api/v1/genus/abaxianthus, plants: /api/v1/genus/abaxianthus/plants, species: /api/v1/genus/abaxianthus/species, family: /api/v1/families/orchidaceae }
+    links: { self: /api/v1/genus/abaxianthus, parent: /api/v1/families/orchidaceae, childs: /api/v1/genus/abaxianthus/plants, grandChilds: /api/v1/genus/abaxianthus/species }
 -
-    family: { divisionOrder: null, id: 79, name: Brassicaceae, slug: brassicaceae, links: { self: /api/v1/families/brassicaceae, division_order: /api/v1/division_orders/capparales, genus: /api/v1/families/brassicaceae/genus } }
+    family: { divisionOrder: null, id: 79, name: Brassicaceae, slug: brassicaceae, links: { self: /api/v1/families/brassicaceae, parent: /api/v1/division_orders/capparales, childs: /api/v1/families/brassicaceae/genus, grandChilds: null } }
     id: 23410
     name: Abazicarpus
     slug: abazicarpus
-    links: { self: /api/v1/genus/abazicarpus, plants: /api/v1/genus/abazicarpus/plants, species: /api/v1/genus/abazicarpus/species, family: /api/v1/families/brassicaceae }
+    links: { self: /api/v1/genus/abazicarpus, parent: /api/v1/families/brassicaceae, childs: /api/v1/genus/abazicarpus/plants, grandChilds: /api/v1/genus/abazicarpus/species }
 -
-    family: { divisionOrder: null, id: 172, name: Myrtaceae, slug: myrtaceae, links: { self: /api/v1/families/myrtaceae, division_order: /api/v1/division_orders/myrtales, genus: /api/v1/families/myrtaceae/genus } }
+    family: { divisionOrder: null, id: 172, name: Myrtaceae, slug: myrtaceae, links: { self: /api/v1/families/myrtaceae, parent: /api/v1/division_orders/myrtales, childs: /api/v1/families/myrtaceae/genus, grandChilds: null } }
     id: 31397
     name: Abbevillea
     slug: abbevillea
-    links: { self: /api/v1/genus/abbevillea, plants: /api/v1/genus/abbevillea/plants, species: /api/v1/genus/abbevillea/species, family: /api/v1/families/myrtaceae }
+    links: { self: /api/v1/genus/abbevillea, parent: /api/v1/families/myrtaceae, childs: /api/v1/genus/abbevillea/plants, grandChilds: /api/v1/genus/abbevillea/species }
 -
-    family: { divisionOrder: null, id: 421, name: Juncaginaceae, slug: juncaginaceae, links: { self: /api/v1/families/juncaginaceae, division_order: /api/v1/division_orders/najadales, genus: /api/v1/families/juncaginaceae/genus } }
+    family: { divisionOrder: null, id: 421, name: Juncaginaceae, slug: juncaginaceae, links: { self: /api/v1/families/juncaginaceae, parent: /api/v1/division_orders/najadales, childs: /api/v1/families/juncaginaceae/genus, grandChilds: null } }
     id: 29291
     name: Abbotia
     slug: abbotia
-    links: { self: /api/v1/genus/abbotia, plants: /api/v1/genus/abbotia/plants, species: /api/v1/genus/abbotia/species, family: /api/v1/families/juncaginaceae }
+    links: { self: /api/v1/genus/abbotia, parent: /api/v1/families/juncaginaceae, childs: /api/v1/genus/abbotia/plants, grandChilds: /api/v1/genus/abbotia/species }

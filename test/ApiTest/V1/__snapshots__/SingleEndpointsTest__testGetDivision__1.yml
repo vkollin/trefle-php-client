@@ -1,12 +1,14 @@
 subKingdom:
-    kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }
+    kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }
     id: 1
     name: Tracheobionta
     slug: tracheobionta
-    links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 }
+    links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null }
 id: 1
 name: Magnoliophyta
 slug: magnoliophyta
 links:
     self: /api/v1/divisions/magnoliophyta
-    subkingdom: /api/v1/subkingdoms/tracheobionta
+    parent: /api/v1/subkingdoms/tracheobionta
+    childs: null
+    grandChilds: null

@@ -1,120 +1,120 @@
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 14, name: Scrophulariales, slug: scrophulariales, links: { self: /api/v1/division_orders/scrophulariales, division_class: /api/v1/division_classes/magnoliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 14, name: Scrophulariales, slug: scrophulariales, links: { self: /api/v1/division_orders/scrophulariales, parent: /api/v1/division_classes/magnoliopsida, childs: null, grandChilds: null } }
     id: 16
     name: Acanthaceae
     slug: acanthaceae
-    links: { self: /api/v1/families/acanthaceae, division_order: /api/v1/division_orders/scrophulariales, genus: /api/v1/families/acanthaceae/genus }
+    links: { self: /api/v1/families/acanthaceae, parent: /api/v1/division_orders/scrophulariales, childs: /api/v1/families/acanthaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 17, name: Sapindales, slug: sapindales, links: { self: /api/v1/division_orders/sapindales, division_class: /api/v1/division_classes/magnoliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 17, name: Sapindales, slug: sapindales, links: { self: /api/v1/division_orders/sapindales, parent: /api/v1/division_classes/magnoliopsida, childs: null, grandChilds: null } }
     id: 19
     name: Aceraceae
     slug: aceraceae
-    links: { self: /api/v1/families/aceraceae, division_order: /api/v1/division_orders/sapindales, genus: /api/v1/families/aceraceae/genus }
+    links: { self: /api/v1/families/aceraceae, parent: /api/v1/division_orders/sapindales, childs: /api/v1/families/aceraceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 575
     name: Achariaceae
     slug: achariaceae
-    links: { self: /api/v1/families/achariaceae, division_order: null, genus: /api/v1/families/achariaceae/genus }
+    links: { self: /api/v1/families/achariaceae, parent: null, childs: /api/v1/families/achariaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 6, name: Caryophyllales, slug: caryophyllales, links: { self: /api/v1/division_orders/caryophyllales, division_class: /api/v1/division_classes/magnoliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 6, name: Caryophyllales, slug: caryophyllales, links: { self: /api/v1/division_orders/caryophyllales, parent: /api/v1/division_classes/magnoliopsida, childs: null, grandChilds: null } }
     id: 471
     name: Achatocarpaceae
     slug: achatocarpaceae
-    links: { self: /api/v1/families/achatocarpaceae, division_order: /api/v1/division_orders/caryophyllales, genus: /api/v1/families/achatocarpaceae/genus }
+    links: { self: /api/v1/families/achatocarpaceae, parent: /api/v1/division_orders/caryophyllales, childs: /api/v1/families/achatocarpaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 25, name: Arales, slug: arales, links: { self: /api/v1/division_orders/arales, division_class: /api/v1/division_classes/liliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 25, name: Arales, slug: arales, links: { self: /api/v1/division_orders/arales, parent: /api/v1/division_classes/liliopsida, childs: null, grandChilds: null } }
     id: 31
     name: Acoraceae
     slug: acoraceae
-    links: { self: /api/v1/families/acoraceae, division_order: /api/v1/division_orders/arales, genus: /api/v1/families/acoraceae/genus }
+    links: { self: /api/v1/families/acoraceae, parent: /api/v1/division_orders/arales, childs: /api/v1/families/acoraceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: null, id: 7, name: Hepaticopsida, slug: hepaticopsida, links: { self: /api/v1/division_classes/hepaticopsida, division: null } }, id: 27, name: Jungermanniales, slug: jungermanniales, links: { self: /api/v1/division_orders/jungermanniales, division_class: /api/v1/division_classes/hepaticopsida } }
+    divisionOrder: { divisionClass: { division: null, id: 7, name: Hepaticopsida, slug: hepaticopsida, links: { self: /api/v1/division_classes/hepaticopsida, parent: null, childs: null, grandChilds: null } }, id: 27, name: Jungermanniales, slug: jungermanniales, links: { self: /api/v1/division_orders/jungermanniales, parent: /api/v1/division_classes/hepaticopsida, childs: null, grandChilds: null } }
     id: 33
     name: Acrobolbaceae
     slug: acrobolbaceae
-    links: { self: /api/v1/families/acrobolbaceae, division_order: /api/v1/division_orders/jungermanniales, genus: /api/v1/families/acrobolbaceae/genus }
+    links: { self: /api/v1/families/acrobolbaceae, parent: /api/v1/division_orders/jungermanniales, childs: /api/v1/families/acrobolbaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 31, name: Theales, slug: theales, links: { self: /api/v1/division_orders/theales, division_class: /api/v1/division_classes/magnoliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 31, name: Theales, slug: theales, links: { self: /api/v1/division_orders/theales, parent: /api/v1/division_classes/magnoliopsida, childs: null, grandChilds: null } }
     id: 40
     name: Actinidiaceae
     slug: actinidiaceae
-    links: { self: /api/v1/families/actinidiaceae, division_order: /api/v1/division_orders/theales, genus: /api/v1/families/actinidiaceae/genus }
+    links: { self: /api/v1/families/actinidiaceae, parent: /api/v1/division_orders/theales, childs: /api/v1/families/actinidiaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 1, name: Dipsacales, slug: dipsacales, links: { self: /api/v1/division_orders/dipsacales, division_class: /api/v1/division_classes/magnoliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 1, name: Dipsacales, slug: dipsacales, links: { self: /api/v1/division_orders/dipsacales, parent: /api/v1/division_classes/magnoliopsida, childs: null, grandChilds: null } }
     id: 50
     name: Adoxaceae
     slug: adoxaceae
-    links: { self: /api/v1/families/adoxaceae, division_order: /api/v1/division_orders/dipsacales, genus: /api/v1/families/adoxaceae/genus }
+    links: { self: /api/v1/families/adoxaceae, parent: /api/v1/division_orders/dipsacales, childs: /api/v1/families/adoxaceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 607
     name: Aextoxicaceae
     slug: aextoxicaceae
-    links: { self: /api/v1/families/aextoxicaceae, division_order: null, genus: /api/v1/families/aextoxicaceae/genus }
+    links: { self: /api/v1/families/aextoxicaceae, parent: null, childs: /api/v1/families/aextoxicaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 20, name: Liliales, slug: liliales, links: { self: /api/v1/division_orders/liliales, division_class: /api/v1/division_classes/liliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 20, name: Liliales, slug: liliales, links: { self: /api/v1/division_orders/liliales, parent: /api/v1/division_classes/liliopsida, childs: null, grandChilds: null } }
     id: 62
     name: Agavaceae
     slug: agavaceae
-    links: { self: /api/v1/families/agavaceae, division_order: /api/v1/division_orders/liliales, genus: /api/v1/families/agavaceae/genus }
+    links: { self: /api/v1/families/agavaceae, parent: /api/v1/division_orders/liliales, childs: /api/v1/families/agavaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 6, name: Caryophyllales, slug: caryophyllales, links: { self: /api/v1/division_orders/caryophyllales, division_class: /api/v1/division_classes/magnoliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 1, name: Magnoliopsida, slug: magnoliopsida, links: { self: /api/v1/division_classes/magnoliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 6, name: Caryophyllales, slug: caryophyllales, links: { self: /api/v1/division_orders/caryophyllales, parent: /api/v1/division_classes/magnoliopsida, childs: null, grandChilds: null } }
     id: 131
     name: Aizoaceae
     slug: aizoaceae
-    links: { self: /api/v1/families/aizoaceae, division_order: /api/v1/division_orders/caryophyllales, genus: /api/v1/families/aizoaceae/genus }
+    links: { self: /api/v1/families/aizoaceae, parent: /api/v1/division_orders/caryophyllales, childs: /api/v1/families/aizoaceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 613
     name: Akaniaceae
     slug: akaniaceae
-    links: { self: /api/v1/families/akaniaceae, division_order: null, genus: /api/v1/families/akaniaceae/genus }
+    links: { self: /api/v1/families/akaniaceae, parent: null, childs: /api/v1/families/akaniaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: null, id: 6, name: Ascomycetes, slug: ascomycetes, links: { self: /api/v1/division_classes/ascomycetes, division: null } }, id: 15, name: Lecanorales, slug: lecanorales, links: { self: /api/v1/division_orders/lecanorales, division_class: /api/v1/division_classes/ascomycetes } }
+    divisionOrder: { divisionClass: { division: null, id: 6, name: Ascomycetes, slug: ascomycetes, links: { self: /api/v1/division_classes/ascomycetes, parent: null, childs: null, grandChilds: null } }, id: 15, name: Lecanorales, slug: lecanorales, links: { self: /api/v1/division_orders/lecanorales, parent: /api/v1/division_classes/ascomycetes, childs: null, grandChilds: null } }
     id: 73
     name: Alectoriaceae
     slug: alectoriaceae
-    links: { self: /api/v1/families/alectoriaceae, division_order: /api/v1/division_orders/lecanorales, genus: /api/v1/families/alectoriaceae/genus }
+    links: { self: /api/v1/families/alectoriaceae, parent: /api/v1/division_orders/lecanorales, childs: /api/v1/families/alectoriaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 42, name: Alismatales, slug: alismatales, links: { self: /api/v1/division_orders/alismatales, division_class: /api/v1/division_classes/liliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 42, name: Alismatales, slug: alismatales, links: { self: /api/v1/division_orders/alismatales, parent: /api/v1/division_classes/liliopsida, childs: null, grandChilds: null } }
     id: 76
     name: Alismataceae
     slug: alismataceae
-    links: { self: /api/v1/families/alismataceae, division_order: /api/v1/division_orders/alismatales, genus: /api/v1/families/alismataceae/genus }
+    links: { self: /api/v1/families/alismataceae, parent: /api/v1/division_orders/alismatales, childs: /api/v1/families/alismataceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: null, id: 7, name: Hepaticopsida, slug: hepaticopsida, links: { self: /api/v1/division_classes/hepaticopsida, division: null } }, id: 57, name: Metzgeriales, slug: metzgeriales, links: { self: /api/v1/division_orders/metzgeriales, division_class: /api/v1/division_classes/hepaticopsida } }
+    divisionOrder: { divisionClass: { division: null, id: 7, name: Hepaticopsida, slug: hepaticopsida, links: { self: /api/v1/division_classes/hepaticopsida, parent: null, childs: null, grandChilds: null } }, id: 57, name: Metzgeriales, slug: metzgeriales, links: { self: /api/v1/division_orders/metzgeriales, parent: /api/v1/division_classes/hepaticopsida, childs: null, grandChilds: null } }
     id: 226
     name: Allisoniaceae
     slug: allisoniaceae
-    links: { self: /api/v1/families/allisoniaceae, division_order: /api/v1/division_orders/metzgeriales, genus: /api/v1/families/allisoniaceae/genus }
+    links: { self: /api/v1/families/allisoniaceae, parent: /api/v1/division_orders/metzgeriales, childs: /api/v1/families/allisoniaceae/genus, grandChilds: null }
 -
-    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1 } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, kingdom: /api/v1/kingdoms/1 } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, subkingdom: /api/v1/subkingdoms/tracheobionta } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, division: /api/v1/divisions/magnoliophyta } }, id: 20, name: Liliales, slug: liliales, links: { self: /api/v1/division_orders/liliales, division_class: /api/v1/division_classes/liliopsida } }
+    divisionOrder: { divisionClass: { division: { subKingdom: { kingdom: { id: 1, name: Plantae, links: { self: /api/v1/kingdoms/1, parent: null, childs: null, grandChilds: null } }, id: 1, name: Tracheobionta, slug: tracheobionta, links: { self: /api/v1/subkingdoms/tracheobionta, parent: /api/v1/kingdoms/1, childs: null, grandChilds: null } }, id: 1, name: Magnoliophyta, slug: magnoliophyta, links: { self: /api/v1/divisions/magnoliophyta, parent: /api/v1/subkingdoms/tracheobionta, childs: null, grandChilds: null } }, id: 4, name: Liliopsida, slug: liliopsida, links: { self: /api/v1/division_classes/liliopsida, parent: /api/v1/divisions/magnoliophyta, childs: null, grandChilds: null } }, id: 20, name: Liliales, slug: liliales, links: { self: /api/v1/division_orders/liliales, parent: /api/v1/division_classes/liliopsida, childs: null, grandChilds: null } }
     id: 83
     name: Aloaceae
     slug: aloaceae
-    links: { self: /api/v1/families/aloaceae, division_order: /api/v1/division_orders/liliales, genus: /api/v1/families/aloaceae/genus }
+    links: { self: /api/v1/families/aloaceae, parent: /api/v1/division_orders/liliales, childs: /api/v1/families/aloaceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 614
     name: Alseuosmiaceae
     slug: alseuosmiaceae
-    links: { self: /api/v1/families/alseuosmiaceae, division_order: null, genus: /api/v1/families/alseuosmiaceae/genus }
+    links: { self: /api/v1/families/alseuosmiaceae, parent: null, childs: /api/v1/families/alseuosmiaceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 583
     name: Alstroemeriaceae
     slug: alstroemeriaceae
-    links: { self: /api/v1/families/alstroemeriaceae, division_order: null, genus: /api/v1/families/alstroemeriaceae/genus }
+    links: { self: /api/v1/families/alstroemeriaceae, parent: null, childs: /api/v1/families/alstroemeriaceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 617
     name: Altingiaceae
     slug: altingiaceae
-    links: { self: /api/v1/families/altingiaceae, division_order: null, genus: /api/v1/families/altingiaceae/genus }
+    links: { self: /api/v1/families/altingiaceae, parent: null, childs: /api/v1/families/altingiaceae/genus, grandChilds: null }
 -
     divisionOrder: null
     id: 578
     name: Alzateaceae
     slug: alzateaceae
-    links: { self: /api/v1/families/alzateaceae, division_order: null, genus: /api/v1/families/alzateaceae/genus }
+    links: { self: /api/v1/families/alzateaceae, parent: null, childs: /api/v1/families/alzateaceae/genus, grandChilds: null }

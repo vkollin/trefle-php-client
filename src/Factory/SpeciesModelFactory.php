@@ -59,6 +59,11 @@ class SpeciesModelFactory
             isset($raw['growth']) ? self::createGrowth($raw['growth']) : null,
             isset($raw['synonyms']) ? self::createSynonyms($raw['synonyms']) : null,
             isset($raw['sources']) ? self::createSources($raw['sources']) : null,
+            isset($raw['links']) ? ModelFactory::createLinks(
+                $raw['links']['self'],
+                $raw['links']['plant'],
+                $raw['links']['genus']
+            ) : null,
         );
     }
 

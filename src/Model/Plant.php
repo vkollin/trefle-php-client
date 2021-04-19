@@ -2,6 +2,8 @@
 
 namespace Trefle\Model;
 
+use Trefle\Model\Links\Links;
+
 class Plant
 {
     private int $id;
@@ -18,7 +20,7 @@ class Plant
     private ?string $observations;
     private ?Species $mainSpecies;
     private ?array $sources;
-    private array $links;
+    private ?Links $links;
 
     public function __construct(
         int $id,
@@ -35,7 +37,7 @@ class Plant
         ?string $observations,
         ?Species $mainSpecies,
         ?array $sources,
-        array $links
+        ?Links $links
     ) {
         $this->id               = $id;
         $this->commonName       = $commonName;
@@ -124,7 +126,7 @@ class Plant
         return $this->sources;
     }
 
-    public function getLinks(): array
+    public function getLinks(): ?Links
     {
         return $this->links;
     }

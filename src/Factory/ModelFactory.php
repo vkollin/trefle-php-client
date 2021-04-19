@@ -8,6 +8,8 @@ use Trefle\Model\DivisionOrder;
 use Trefle\Model\Family;
 use Trefle\Model\Genus;
 use Trefle\Model\Kingdom;
+use Trefle\Model\Links\Links;
+use Trefle\Model\Links\PlantLinks;
 use Trefle\Model\Plant;
 use Trefle\Model\Species;
 use Trefle\Model\SubKingdom;
@@ -16,6 +18,20 @@ class ModelFactory
 {
     public static function createPlant(array $raw): Plant
     {
+        if (isset($raw['links']['plant'])) {
+            $links = new PlantLinks(
+                $raw['links']['self'],
+                $raw['links']['plant'],
+                $raw['links']['genus']
+            );
+        } else {
+            $links = new Links();
+
+            $links->setSelf($raw['links']['self']);
+            $links->setChilds($raw['links']['species']);
+            $links->setParent($raw['links']['genus']);
+        }
+
         return new Plant(
             $raw['id'],
             $raw['common_name'] ?? null,
@@ -31,7 +47,7 @@ class ModelFactory
             $raw['observations'] ?? null,
             ($raw['main_species'] ?? null) ? self::createSpecies($raw['main_species']) : null,
             $raw['sources'] ?? null,
-            $raw['links']
+            $links
         );
     }
 
@@ -46,9 +62,30 @@ class ModelFactory
             $raw['id'],
             $raw['name'],
             $raw['slug'],
-            $raw['links'],
+            self::createLinks(
+                $raw['links']['self'],
+                $raw['links']['family'],
+                $raw['links']['plants'],
+                $raw['links']['species']
+            ),
             self::createFamily($raw['family'])
         );
+    }
+
+    public static function createLinks(
+        ?string $self,
+        ?string $parent = null,
+        ?string $childs = null,
+        ?string $grandChilds = null
+    ): Links {
+        $links = new Links();
+
+        $links->setSelf($self);
+        $links->setParent($parent);
+        $links->setChilds($childs);
+        $links->setGrandChilds($grandChilds);
+
+        return $links;
     }
 
     public static function createFamily(array $raw): Family
@@ -57,7 +94,7 @@ class ModelFactory
             $raw['id'],
             $raw['name'],
             $raw['slug'],
-            $raw['links'],
+            self::createLinks($raw['links']['self'], $raw['links']['division_order'], $raw['links']['genus']),
             !empty($raw['division_order']) ? self::createDivisionOrder($raw['division_order']) : null
         );
     }
@@ -68,7 +105,7 @@ class ModelFactory
             $raw['id'],
             $raw['name'],
             $raw['slug'],
-            $raw['links'],
+            self::createLinks($raw['links']['self'], $raw['links']['division_class']),
             self::createDivisionClass($raw['division_class'])
         );
     }
@@ -79,7 +116,7 @@ class ModelFactory
             $raw['id'],
             $raw['name'],
             $raw['slug'],
-            $raw['links'],
+            self::createLinks($raw['links']['self'], $raw['links']['division']),
             $raw['division'] ? self::createDivision($raw['division']) : null
         );
     }
@@ -90,7 +127,7 @@ class ModelFactory
             $raw['id'],
             $raw['name'],
             $raw['slug'],
-            $raw['links'],
+            self::createLinks($raw['links']['self'], $raw['links']['subkingdom']),
             self::createSubKingdom($raw['subkingdom'])
         );
     }
@@ -101,7 +138,7 @@ class ModelFactory
             $raw['id'],
             $raw['name'],
             $raw['slug'],
-            $raw['links'],
+            self::createLinks($raw['links']['self'], $raw['links']['kingdom']),
             self::createKingdom($raw['kingdom'])
         );
     }
@@ -111,7 +148,7 @@ class ModelFactory
         return new Kingdom(
             $raw['id'],
             $raw['name'],
-            $raw['links'],
+            self::createLinks($raw['links']['self']),
         );
     }
 }

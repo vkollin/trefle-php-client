@@ -28,6 +28,7 @@
     growth: null
     synonyms: ['Quercus lyauteyi', 'Quercus rotundifolia f. crassicupulata', 'Quercus ballota', 'Quercus ilex f. brevicupulata', 'Quercus calycina', 'Quercus rotundifolia f. dolichocalyx', 'Quercus rotundifolia f. pilosella', 'Quercus rotundifolia f. macrocarpa', 'Quercus rotundifolia f. calycina', 'Quercus ilex f. macrocarpa', 'Quercus ilex subsp. ballota', 'Quercus rotundifolia var. pilosella', 'Quercus rotundifolia var. brevicupulata', 'Quercus rotundifolia subsp. maghrebiana', 'Quercus rotundifolia f. brevicupulata', 'Quercus rotundifolia var. macrocarpa']
     sources: null
+    links: { self: /api/v1/species/quercus-rotundifolia, parent: /api/v1/plants/quercus-rotundifolia, childs: /api/v1/genus/quercus, grandChilds: null }
 -
     id: 190500
     commonName: 'Stinging nettle'
@@ -58,6 +59,7 @@
     growth: null
     synonyms: ['Urtica major', 'Urtica tibetica', 'Urtica sicula', 'Urtica eckloniana', 'Urtica haussknechtii', 'Urtica submitis']
     sources: null
+    links: { self: /api/v1/species/urtica-dioica, parent: /api/v1/plants/urtica-dioica, childs: /api/v1/genus/urtica, grandChilds: null }
 -
     id: 126957
     commonName: Orchardgrass
@@ -88,6 +90,7 @@
     growth: null
     synonyms: ['Koeleria dactylis', 'Festuca glomerata', 'Trachypoa vulgaris', 'Phalaris glomerata', 'Dactylis glomerata var. vivipara', 'Dactylis glomerata var. detonsa', 'Dactylis glomerata f. variegata', 'Dactylis decalcata', 'Dactylis abbreviata', 'Dactylis glomerata f. hispida', 'Dactylis stenophylla', 'Dactylis kovarovicii', 'Dactylis noeana', 'Dactylis kirschbaumii', 'Dactylis glomerata var. variegata', 'Dactylis pubescens', 'Festuca phalarioides', 'Dactylis nemorosa', 'Dactylis glaucescens', 'Dactylis metlesicsii', 'Dactylis altaica', 'Dactylis glomerata var. titani', 'Dactylis cylindracea', 'Dactylis scaberrima', 'Bromus cylindraceus', 'Dactylis peylii', 'Dactylis glomerata f. pubescens', 'Dactylis capitellata', 'Dactylis pendula', 'Sesleria cirtensis', 'Dactylis glomerata subsp. himalayensis']
     sources: null
+    links: { self: /api/v1/species/dactylis-glomerata, parent: /api/v1/plants/dactylis-glomerata, childs: /api/v1/genus/dactylis, grandChilds: null }
 -
     id: 167888
     commonName: 'Narrowleaf plantain'
@@ -118,6 +121,7 @@
     growth: null
     synonyms: ['Plantago lanceolata var. sphaerostachya', 'Plantago azorica', 'Plantago glareosa', 'Plantago lanceolata var. lanuginosa', 'Plantago trinervis', 'Plantago dubia', 'Plantago lanuginosa', 'Plantago kurdica', 'Plantago nutans', 'Plantago orientalis', 'Plantago leiopetala', 'Plantago capitata', 'Plantago lanceolata var. dubia', 'Plantago longiscapa', 'Plantago ambigua', 'Plantago glauca', 'Plantago pseudopatagonica', 'Plantago eriophora', 'Plantago attenuata', 'Plantago hungarica', 'Plantago variabilis', 'Plantago preslii', 'Plantago contorta', 'Plantago yezomaritima', 'Plantago schottii', 'Plantago elata', 'Plantago linkii', 'Lagopus timbali', 'Lagopus lanceolatus', 'Plantago byzantina', 'Plantago sylvatica', 'Arnoglossum lanceolatum', 'Plantago fontis-curvae', 'Plantago glabriflora', 'Plantago succisa', 'Plantago flexuosa', 'Plantago lanceolata var. minor']
     sources: null
+    links: { self: /api/v1/species/plantago-lanceolata, parent: /api/v1/plants/plantago-lanceolata, childs: /api/v1/genus/plantago, grandChilds: null }
 -
     id: 173327
     commonName: 'English oak'
@@ -148,6 +152,7 @@
     growth: null
     synonyms: ['Quercus longaeva', 'Quercus salicifolia', 'Quercus pedemontana', 'Quercus pseudoschorochensis', 'Quercus robur f. globulata', 'Quercus robur subsp. asterotricha', 'Quercus axillaris', 'Quercus microcarpa', 'Quercus dalechampii f. rubens', 'Quercus dalechampii var. aurea', 'Quercus dalechampii f. piersii', 'Quercus dalechampii f. macroloba', 'Quercus dalechampii f. lancifolia', 'Quercus strigosa', 'Quercus mexicana var. glabrata', 'Quercus castanea var. glabrata', 'Quercus tahuasalana', 'Quercus duratifolia', 'Cerris salicifolia', 'Quercus acapulcensis', 'Quercus turbinata', 'Quercus dilatata', 'Quercus aurea', 'Quercus subvelutina', 'Quercus avellanoides', 'Quercus cuprea', 'Quercus purpurea', 'Quercus hyemalis', 'Quercus bellogradensis', 'Quercus malacophylla', 'Quercus fructipendula', 'Quercus monorensis', 'Quercus fennessii', 'Quercus extensa', 'Quercus dissecta', 'Quercus tardiflora', 'Quercus atropurpurea', 'Quercus pyramidalis', 'Quercus pseudosessilis', 'Quercus geltowiensis', 'Quercus palmata', 'Quercus farinosa', 'Quercus comptoniifolia', 'Quercus sieboldii', 'Quercus nigricans', 'Quercus condensata', 'Quercus lasistan', 'Quercus coriifolia', 'Quercus hispanica', 'Quercus horizontalis', 'Quercus rubicunda', 'Quercus scolopendrifolia', 'Quercus robur var. patellulata', 'Quercus viminalis', 'Quercus bedoi', 'Quercus pendulina', 'Quercus robur f. subpraecox', 'Quercus parmenteria', 'Quercus auzin', 'Quercus cupulatus', 'Quercus pulverulenta', 'Quercus pendula', 'Quercus longiglans', 'Quercus pseudotscharakensis', 'Quercus asterotricha', 'Quercus robur f. brachybalanus', 'Quercus bruttia', 'Quercus robur f. subglobosa', 'Quercus castanoides', 'Quercus rubens', 'Quercus haas', 'Quercus speciensis', 'Quercus falkenbergensis', 'Quercus aesculus', 'Quercus filipendula', 'Quercus annenkowii', 'Quercus abbreviata', 'Quercus tennesi', 'Quercus germanica', 'Quercus cylindracea', 'Quercus welandii', 'Quercus tricolor', 'Quercus tozzae', 'Quercus tetracarpa', 'Quercus paleacea', 'Quercus atrovirens', 'Quercus robur f. sphaerobalanus', 'Quercus virgata', 'Quercus rumelica', 'Quercus aestivalis', 'Quercus robur subsp. slavonica', 'Quercus fastigiata', 'Quercus altissima', 'Quercus brossa', 'Quercus pyrenaica f. sphaerocarpa', 'Quercus tauzinii', 'Quercus toza', 'Quercus tauza', 'Quercus camata', 'Quercus lezermiana', 'Quercus robur var. tardissima', 'Quercus svecica', 'Quercus robur f. crassiuscula', 'Quercus pyrenaica', 'Quercus banatus', 'Quercus australis', 'Quercus pyrenaica f. expansa', 'Quercus pyrenaica f. stenocarpa', 'Quercus racemosa', 'Quercus lanuginosa', 'Quercus brevipes', 'Quercus robur f. fastigiata', 'Quercus estremadurensis', 'Quercus acherdophylla', 'Quercus robur subsp. broteroana', 'Quercus rubramenta', 'Quercus dalechampii f. apatini', 'Quercus stolonifera', 'Quercus pyrenaica f. normalis', 'Quercus cenomanensis', 'Quercus tauzin']
     sources: null
+    links: { self: /api/v1/species/quercus-robur, parent: /api/v1/plants/quercus-robur, childs: /api/v1/genus/quercus, grandChilds: null }
 -
     id: 137025
     commonName: 'Red fescue'
@@ -178,6 +183,7 @@
     growth: null
     synonyms: ['Festuca rubra var. arenaria', 'Bromus secundus', 'Festuca kitaibeliana', 'Festuca rubra var. lanuginosa', 'Festuca michiganica', 'Festuca pseudovivipara', 'Festuca fallax', 'Festuca rubra var. mediana', 'Festuca ammobia', 'Festuca aucta', 'Festuca densiuscula', 'Festuca vallicola', 'Festuca ovina subsp. glauca', 'Festuca calcarea', 'Festuca rivularis subsp. pseudorivularis', 'Festuca glauca', 'Festuca heterophylla var. subheterophylla', 'Festuca glabra', 'Festuca oregona', 'Festuca halleri', 'Festuca iberica subsp. atlantigena', 'Festuca clarkei', 'Festuca alpestris', 'Festuca rubra subsp. thessalica', 'Festuca rubra subsp. yvesiana', 'Festuca longifolia', 'Festuca lanuginosa', 'Festuca daghestanica', 'Festuca rubra subsp. sochondinensis', 'Festuca rubra subsp. villosa', 'Festuca rubra var. glabra', 'Festuca pratensis', '× Festulolium ascendens', 'Schedonorus radicans', 'Festuca villosa', 'Festuca glaucescens', 'Festuca rubra subsp. fraterculae', 'Festuca rubra subsp. glaucodea', 'Festuca rubra var. radnensis', 'Festuca subcontorta', 'Festuca kirelowii', 'Festuca nankotaizanensis', 'Festuca atlantigena', 'Festuca viridis', 'Festuca pseudorubra', 'Festuca rubra subsp. pruinosa', 'Festuca baicalensis', 'Festuca rubra subsp. vallicola', 'Festuca rubra subsp. pseudorivularis', 'Festuca aurasiaca', 'Festuca rubra var. atlantigena', 'Festuca rubra f. dasyphylla', 'Festuca rubra subsp. kirelowii', 'Festuca alexeevii', 'Schedonorus dumetorum', 'Festuca waldsteinii', 'Festuca rubra f. pseudovivipara', 'Festuca rubra subsp. eriantha', 'Festuca septiflora', 'Festuca rubra f. littoralis', 'Avena dura', 'Festuca rubra subsp. kitaibeliana', 'Festuca rubra f. subheterophylla', 'Festuca iberica subsp. yvesiana', 'Festuca rubra var. caulispicula', 'Festuca rubra subsp. densiuscula', 'Festuca rubra var. altaica', 'Festuca briquetii', 'Gramen rubrum', 'Festuca rubra var. pauciflora', 'Festuca baicalensis var. tjulinae', 'Festuca inopoda', 'Festuca limosa', 'Festuca pruinosa', 'Festuca rubra f. longifolia', 'Festuca rubra f. glabra', 'Festuca eriantha', 'Festuca baltica', 'Festuca rubra subsp. scotica', 'Festuca ovina subsp. major', 'Festuca rubra subvar. grandiflora', 'Festuca polyantha', 'Festuca repens', 'Festuca rubra subsp. baicalensis', 'Festuca subglaucescens', 'Festuca egena', 'Festuca steineri', 'Festuca pseudonemorum', 'Festuca rubra subsp. arenaria', 'Festuca rubra f. pilosa', 'Festuca helgolandica', 'Festuca rubra var. atrata', 'Festuca alexeevii var. villispiculata', 'Festuca rubra subsp. limosa', 'Festuca rubra var. magnelii', 'Festuca rubra var. secunda', 'Festuca salina', 'Festuca rubra subsp. secunda', 'Festuca rubra subvar. pruinosa', 'Festuca rubra var. glabrata', 'Festuca rubra subsp. pluriflora', 'Festuca rubra var. clarkei', 'Festuca askelofiana', 'Festuca rubra subsp. glabra', 'Festuca musashiensis', 'Festuca balearica', 'Festuca communis', 'Festuca alpigena', 'Festuca rubra subsp. daghestanica', 'Festuca hondoensis', 'Festuca rubra f. caespitosa', 'Festuca rubra subvar. glaucescens', 'Festuca pallidiuscula', 'Festuca unifaria var. izhorica', 'Festuca paucispicula', 'Festuca cambrica', 'Festuca planifolia', 'Poa tenuifolia var. oregona', 'Festuca rubra subvar. dasyphylla', 'Festuca paucispiculata', 'Festuca rubra var. yvesiana', 'Festuca unifaria', 'Festuca rubra subvar. densiuscula', 'Festuca rubra subvar. barbata', 'Festuca rubra f. psilolemma', 'Festuca siracusana', 'Festuca villiflora', 'Festuca yvesiana', 'Festuca rubra subsp. lanuginosa', 'Festuca polonica', 'Festuca longiseta', 'Festuca niitakensis', 'Festuca americana', 'Festuca spiciformis', 'Festuca plonkae', 'Festuca corsica', 'Festuca halleri subsp. yvesii', 'Festuca halleri subsp. scardica', 'Festuca gaudinii', 'Festuca austrodolomitica', 'Festuca halleri var. tenuis', 'Festuca decipiens', 'Festuca ovina var. alpestris', 'Festuca strictifolia', 'Festuca veneris', 'Festuca eragrostoides', 'Festuca rubra var. megastachys', 'Festuca ovina var. duriuscula', 'Festuca rubra var. grandiflora', 'Festuca rubra var. commutata', 'Festuca rubra var. littoralis', 'Festuca rubra var. pruinosa', 'Festuca rubra var. juncea', 'Lolium pratense', 'Festuca rubra subsp. aucta', 'Festuca rubra subsp. commutata', 'Festuca rubra subsp. arenicola', 'Festuca rubra subsp. vulgaris', 'Festuca rubra f. grandiflora', 'Festuca rubra subsp. fallax', 'Festuca rubra subsp. mediana', 'Festuca rubra subsp. juncea', 'Vulpia australis', 'Vulpia eriolepis f. glabrata', 'Festuca arctica', 'Festuca muralis', 'Vulpia muralis var. spicata', 'Lolium apenninum', 'Schedonorus pratensis subsp. apenninus', 'Lolium pratense subsp. apenninum', 'Festuca hybrida', 'Vulpia hybrida', 'Vulpia broteri', 'Vulpia muralis', 'Festuca broteri', 'Festuca apennina', 'Schedonorus apenninus', 'Lolium appenninum', 'Festuca australis', 'Festuca fluitans var. pratensis', 'Schedonorus pratensis', 'Schedonorus curvatus', 'Bucetum pratense', 'Schedonorus americanus', 'Festuca pratensis f. mucronata', 'Festuca adscendens', 'Festuca pratensis f. parvillora', 'Festuca heteromalla', 'Tragus pratensis', 'Festuca pratensis f. macrostachya', 'Festuca radicans', 'Festuca curvata']
     sources: null
+    links: { self: /api/v1/species/festuca-rubra, parent: /api/v1/plants/festuca-rubra, childs: /api/v1/genus/festuca, grandChilds: null }
 -
     id: 173910
     commonName: 'Creeping buttercup'
@@ -208,6 +214,7 @@
     growth: null
     synonyms: ['Ranunculus repens var. erectus', 'Ranunculus repens var. pleniflorus', 'Ranunculus repens var. glabratus', 'Ranunculus repens var. linearilobus', 'Ranunculus schlechtendalii', 'Ranunculus oenanthifolius', 'Ranunculus lucidus', 'Ranunculus semidecurrens', 'Ranunculus repens f. polypetalus', 'Ranunculus repens f. schlechtendalii', 'Ranunculastrum reptabundum', 'Ranunculastrum repens', 'Ranunculus caleyanus', 'Ranunculus clintonii', 'Ranunculus belvisii', 'Ranunculus prostratus', 'Ranunculus lagascanus', 'Ranunculus repens var. degeneratus', 'Ranunculus repens var. typicus', 'Ranunculus repens var. villosus']
     sources: null
+    links: { self: /api/v1/species/ranunculus-repens, parent: /api/v1/plants/ranunculus-repens, childs: /api/v1/genus/ranunculus, grandChilds: null }
 -
     id: 143075
     commonName: 'Common velvetgrass'
@@ -238,6 +245,7 @@
     growth: null
     synonyms: ['Nothoholcus lanatus', 'Holcus lanatus subsp. vaginatus', 'Notholcus lanatus', 'Ginannia pubescens', 'Holcus lanatus var. sobolifer', 'Holcus tuberosus', 'Holcus aestivalis', 'Holcus oriolis', 'Holcus argenteus', 'Aira holcus-lanata', 'Holcus lanatus var. vaginatus', 'Ginannia lanata', 'Holcus lanatus subsp. tuberosus', 'Holcus lanatus var. tuberosus', 'Holcus intermedius', 'Holcus lanatus f. viviparus', 'Holcus glaucus']
     sources: null
+    links: { self: /api/v1/species/holcus-lanatus, parent: /api/v1/plants/holcus-lanatus, childs: /api/v1/genus/holcus, grandChilds: null }
 -
     id: 189539
     commonName: 'White clover'
@@ -268,6 +276,7 @@
     growth: null
     synonyms: ['Amoria repens', 'Trifolium repens var. atropurpureum', 'Trifolium repens subsp. repens', 'Trifolium repens var. giganteum']
     sources: null
+    links: { self: /api/v1/species/trifolium-repens, parent: /api/v1/plants/trifolium-repens, childs: /api/v1/genus/trifolium, grandChilds: null }
 -
     id: 137834
     commonName: 'European ash'
@@ -298,6 +307,7 @@
     growth: null
     synonyms: ['Fraxinus excelsior var. communis', 'Fraxinus excelsior var. pendula', 'Fraxinus ochrochlora', 'Ornus strigata', 'Fraxinus excelsior f. digitata', 'Fraxinus lucida', 'Fraxinus polemonifolia', 'Fraxinus streptocarpa', 'Fraxinus excelsior var. angustifolia', 'Fraxinus steudelii', 'Fraxinus purpurascens', 'Fraxinus atrovirens', 'Fraxinus bumelia', 'Fraxinus oxyodon', 'Fraxinus linearis', 'Fraxinus retorta', 'Fraxinus globosa', 'Fraxinus baurieri', 'Aplilia laciniata', 'Fraxinus excelsior f. multifoliolata', 'Fraxinus integrifolia', 'Fraxinus concavifolia', 'Leptalix atrovirens', 'Fraxinus strigata', 'Fraxinus fungosa', 'Fraxinus scolopendrium', 'Fraxinus eliae', 'Fraxinus ceretanica', 'Fraxinus ararica', 'Fraxinus acutifolia', 'Fraxinus brevidentata', 'Fraxinus atra', 'Fraxinus pumila', 'Fraxinus cucullata', 'Fraxinus crispa', 'Fraxinus simplicifolia', 'Fraxinus glomerata', 'Fraxinus boitrayana', 'Aplilia pendula', 'Fraxinus exoniensis', 'Fraxinus heterophylla', 'Fraxinus apetala', 'Fraxinus amarissima', 'Fraxinus stenobotrys', 'Fraxinus spectabilis', 'Fraxinus dodei', 'Fraxinus biloba', 'Ornus striata', 'Fraxinus excelsior f. angustifolia', 'Leptalix nana', 'Fraxinus longisamara', 'Fraxinus burgalensis', 'Fraxinus aurea', 'Fraxinus humilis', 'Fraxinus subcordata', 'Fraxinus microphylla', 'Fraxinus scolopendrifolia', 'Fraxinus boscii', 'Fraxinus appendiculata', 'Fraxinus nana', 'Fraxinus grandifolia', 'Fraxinus intermedia']
     sources: null
+    links: { self: /api/v1/species/fraxinus-excelsior, parent: /api/v1/plants/fraxinus-excelsior, childs: /api/v1/genus/fraxinus, grandChilds: null }
 -
     id: 124198
     commonName: 'Oneseed hawthorn'
@@ -328,6 +338,7 @@
     growth: null
     synonyms: ['Crataegus insegnae', 'Mespilus insegnae', 'Mespilus crataegus', 'Mespilus elegans', 'Mespilus heterophylla', 'Crataegus triloba', 'Crataegus monogyna var. dissecta', 'Oxyacantha elegans', 'Mespilus brevispina', 'Crataegus brevispina', 'Crataegus monogyna var. lasiocarpa', 'Crataegus azarella', 'Crataegus monogyna var. microphylla', 'Crataegus dissecta', 'Crataegus monogyna var. nordica', 'Crataegus apiifolia', 'Mespilus maura', 'Mespilus constantinopolitana', 'Crataegus maura', 'Crataegus heterophylla', 'Oxyacantha azarella', 'Crataegus aegeica', 'Crataegus monogyna subsp. nordica', 'Mespilus triloba', 'Oxyacantha apiifolia', 'Oxyacantha monogyna', 'Mespilus monogyna', 'Crataegus lasiocarpa', 'Crataegus stevenii']
     sources: null
+    links: { self: /api/v1/species/crataegus-monogyna, parent: /api/v1/plants/crataegus-monogyna, childs: /api/v1/genus/crataegus, grandChilds: null }
 -
     id: 189529
     commonName: 'Red clover'
@@ -358,6 +369,7 @@
     growth: null
     synonyms: ['Trifolium pratense var. sativum', 'Lagopus pratensis', 'Trifolium nivale', 'Trifolium glareosum', 'Trifolium villosum', 'Ononis trifoliata', 'Trifolium transsilvanicum', 'Trifolium pratense var. variegatum', 'Trifolium expansum', 'Trifolium pratense var. evariegatum', 'Trifolium ucrainicum', 'Trifolium pratense subsp. expansum', 'Trifolium foliosum', 'Trifolium leucophaeum', 'Trifolium officinarum', 'Trifolium abbreviatum', 'Trifolium carpathicum', 'Trifolium vaginatum', 'Trifolium lenkoranicum', 'Trifolium pratense var. foliosum', 'Trifolium brachyanthum', 'Trifolium capillatum', 'Trifolium borderi', 'Trifolium heterophyllum', 'Trifolium alpicola', 'Trifolium seravschanicum', 'Trifolium arizagae', 'Trifolium bracteatum', 'Trifolium brachystylos', 'Trifolium pensylvanicum f. albiflorum', 'Trifolium sativum', 'Trifolium pratense subsp. serotinum', 'Trifolium pratense subsp. semipurpureum', 'Trifolium purpureum', 'Trifolium pratense f. lilacinum', 'Trifolium microphyllum']
     sources: null
+    links: { self: /api/v1/species/trifolium-pratense, parent: /api/v1/plants/trifolium-pratense, childs: /api/v1/genus/trifolium, grandChilds: null }
 -
     id: 173587
     commonName: 'Tall buttercup'
@@ -388,6 +400,7 @@
     growth: null
     synonyms: ['Ranunculus acris var. minimus', 'Ranunculus mccallae', 'Ranunculastrum vulgatum', 'Ranunculus siculus', 'Ranunculus csatoi', 'Ranunculastrum acre', 'Ranunculus acris var. multifidus', 'Ranunculus acris f. multiplicipetalus', 'Ranunculus stevenii', 'Ranunculus pascuicola', 'Ranunculus buergeri', 'Ranunculus franchetianus', 'Ranunculus stipatus', 'Ranunculus kerneri', 'Ranunculus trachyticus', 'Ranunculus cammarifolius', 'Ranunculus kayseri', 'Ranunculus paradoxus', 'Ranunculastrum nemorivagum', 'Ranunculus sylvaticus', 'Ranunculus tomophyllus', 'Ranunculus acris var. filiformis', 'Ranunculus colocensis', 'Ranunculastrum boraeanum', 'Ranunculus silvaticus', 'Ranunculus barthii', 'Ranunculus boraeanus', 'Ranunculus intercedens', 'Ranunculus nemorivagus', 'Ranunculus rectus', 'Ranunculus major', 'Ranunculus subalpinus', 'Ranunculus vulgatus', 'Ranunculus acris var. sylvaticus', 'Ranunculus malacophyllus', 'Ranunculus platyphyllus', 'Ranunculus eustrigulosus', 'Ranunculus transsilvanicus', 'Ranunculus acris var. acris', 'Ranunculus acris var. typicus', 'Ranunculus acris var. latisectus', 'Ranunculus boreanus', 'Ranunculus acris subsp. pumilus']
     sources: null
+    links: { self: /api/v1/species/ranunculus-acris, parent: /api/v1/plants/ranunculus-acris, childs: /api/v1/genus/ranunculus, grandChilds: null }
 -
     id: 123486
     commonName: 'Common filbert'
@@ -418,6 +431,7 @@
     growth: null
     synonyms: ['Corylus sylvestris', 'Corylus ovata', 'Corylus pumila', 'Corylus quercifolia', 'Corylus ardua', 'Corylus arborea', 'Corylus pontica', 'Corylus avellana f. microphylla', 'Corylus urticifolia', 'Corylus avellana var. macrotruncus', 'Corylus alba', 'Corylus serenyiana', 'Corylus filicifolia', 'Corylus avellana f. peltata']
     sources: null
+    links: { self: /api/v1/species/corylus-avellana, parent: /api/v1/plants/corylus-avellana, childs: /api/v1/genus/corylus, grandChilds: null }
 -
     id: 136773
     commonName: 'European beech'
@@ -448,6 +462,7 @@
     growth: null
     synonyms: ['Fagus purpurea', 'Fagus sylvestris', 'Fagus sylvatica var. purpurea', 'Fagus sylvatica var. quercifolia', 'Fagus sylvatica var. vulgaris', 'Fagus echinata', 'Castanea fagus', 'Fagus incisa', 'Fagus laciniata', 'Fagus cochleata', 'Fagus sylvatica var. zlatia', 'Fagus comptoniifolia', 'Fagus cuprea']
     sources: null
+    links: { self: /api/v1/species/fagus-sylvatica, parent: /api/v1/plants/fagus-sylvatica, childs: /api/v1/genus/fagus, grandChilds: null }
 -
     id: 146208
     commonName: 'Common rush'
@@ -478,6 +493,7 @@
     growth: null
     synonyms: ['Juncus communis', 'Juncus communis var. effusus', 'Juncus laevis', 'Tristemon conglomeratus', 'Juncus lucens', 'Juncus mauritianus', 'Juncus bogotensis var. compactus', 'Scirpus capsularis', 'Juncus luxurians', 'Juncus bogotensis', 'Juncus zebrinus', 'Juncus fistulosus', 'Juncus effusus var. compactus', 'Juncus effusus var. effusus', 'Juncus effusus var. subglomeratus']
     sources: null
+    links: { self: /api/v1/species/juncus-effusus, parent: /api/v1/plants/juncus-effusus, childs: /api/v1/genus/juncus, grandChilds: null }
 -
     id: 176845
     commonName: 'Garden sorrel'
@@ -508,6 +524,7 @@
     growth: null
     synonyms: ['Acetosa pratensis subsp. fontanopaludosa', 'Acetosa officinalis', 'Rumex planellae', 'Lapathum pratense', 'Rumex fontanopaludosus', 'Rumex triangularis', 'Acetosa angustata', 'Acetosa amplexicaulis', 'Rumex oxyotus', 'Acetosa hastulata', 'Rumex oblongus', 'Acetosa bidentula', 'Acetosa olitoria', 'Rumex acetosa subsp. biformis', 'Acetosa pratensis subsp. biformis', 'Rumex angustatus', 'Rumex micranthus', 'Acetosa subalpina', 'Acetosa hastifolia', 'Rumex pseudoacetosa', 'Rumex commersonii', 'Acetosa fontanopaludosa', 'Rumex olitoria', 'Acetosa agrestis', 'Rumex agrestis', 'Rumex acuminatus', 'Rumex sagittifolius', 'Rumex biformis', 'Rumex bidentula', 'Acetosa pratensis', 'Rumex bulbosus', 'Lapathum acetosa']
     sources: null
+    links: { self: /api/v1/species/rumex-acetosa, parent: /api/v1/plants/rumex-acetosa, childs: /api/v1/genus/rumex, grandChilds: null }
 -
     id: 105790
     commonName: 'Sweet vernalgrass'
@@ -538,6 +555,7 @@
     growth: null
     synonyms: ['Anthoxanthum odoratum f. montanum', 'Anthoxanthum odoratum f. tenerum', 'Anthoxanthum sommierianum', 'Anthoxanthum maderense', 'Xanthonanthos odoratus', 'Anthoxanthum pauciflorum', 'Anthoxanthum asperum', 'Anthoxanthum nebrodense']
     sources: null
+    links: { self: /api/v1/species/anthoxanthum-odoratum, parent: /api/v1/plants/anthoxanthum-odoratum, childs: /api/v1/genus/anthoxanthum, grandChilds: null }
 -
     id: 137183
     commonName: 'Queen of the meadow'
@@ -568,6 +586,7 @@
     growth: null
     synonyms: ['Spiraea ulmaria', 'Filipendula denudata', 'Filipendula ulmaria var. denudata', 'Filipendula ulmaria subsp. megalocarpa', 'Filipendula ulmaria subsp. denudata', 'Spiraea denudata', 'Spiraea filipendula var. tomentosa', 'Spiraea ulmaria var. denudata', 'Ulmaria glauca', 'Ulmaria quinqueloba', 'Ulmaria pentapetala', 'Ulmaria ulmaria', 'Ulmaria vulgaris', 'Ulmaria denudata', 'Filipendula megalocarpa', 'Spiraea contorta', 'Filipendula ulmaria var. tomentosa', 'Filipendula ulmaria var. glaberrima']
     sources: null
+    links: { self: /api/v1/species/filipendula-ulmaria, parent: /api/v1/plants/filipendula-ulmaria, childs: /api/v1/genus/filipendula, grandChilds: null }
 -
     id: 101851
     commonName: 'Sycamore maple'
@@ -598,3 +617,4 @@
     growth: null
     synonyms: ['Acer purpureum', 'Acer worleei', 'Acer euchlorum', 'Acer rafinesquianum', 'Acer wondracekii', 'Acer villosum', 'Acer opizii', 'Acer melliodorum', 'Acer procerum', 'Acer atropurpureum', 'Acer abchasicum', 'Acer rubrum f. tomentosum']
     sources: null
+    links: { self: /api/v1/species/acer-pseudoplatanus, parent: /api/v1/plants/acer-pseudoplatanus, childs: /api/v1/genus/acer, grandChilds: null }

@@ -2,11 +2,13 @@
 
 namespace Trefle\Model;
 
+use Trefle\Model\Links\Links;
+
 class SubKingdom extends Base
 {
     private Kingdom $kingdom;
 
-    public function __construct(int $id, string $name, string $slug, array $links, Kingdom $kingdom)
+    public function __construct(int $id, string $name, string $slug, Links $links, Kingdom $kingdom)
     {
         parent::__construct($id, $name, $slug, $links);
 

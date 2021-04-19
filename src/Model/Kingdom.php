@@ -2,13 +2,15 @@
 
 namespace Trefle\Model;
 
+use Trefle\Model\Links\Links;
+
 class Kingdom
 {
     private int $id;
     private string $name;
-    private array $links;
+    private Links $links;
 
-    public function __construct(int $id, string $name, array $links)
+    public function __construct(int $id, string $name, Links $links)
     {
         $this->id    = $id;
         $this->name  = $name;
@@ -25,7 +27,7 @@ class Kingdom
         return $this->name;
     }
 
-    public function getLinks(): array
+    public function getLinks(): Links
     {
         return $this->links;
     }
