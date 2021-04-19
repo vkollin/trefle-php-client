@@ -25,11 +25,7 @@ class ModelFactory
                 $raw['links']['genus']
             );
         } else {
-            $links = new Links();
-
-            $links->setSelf($raw['links']['self']);
-            $links->setChilds($raw['links']['species']);
-            $links->setParent($raw['links']['genus']);
+            $links = self::createLinks($raw['links']['self'], $raw['links']['genus'], $raw['links']['species']);
         }
 
         return new Plant(

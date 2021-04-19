@@ -1,5 +1,22 @@
 # Trefle.io PHP client
 
+This is a PHP client for trefle.io
+
+## Usage
+
+Search for species with specific attributes:
+```
+$client = Client::create('your-token-from-trefle.io');
+
+$response = $client
+    ->searchSpecies()
+    ->range(RangeField::PH_MAXIMUM(), 0, 5)
+    ->range(RangeField::LIGHT(), 0, 5)
+    ->filter(FilterField::BLOOM_MONTHS(), Month::JAN())
+    ->fetch();
+```
+
+
 ## Implemented Endpoints
 
 - [x] /kingdoms
